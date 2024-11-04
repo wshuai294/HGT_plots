@@ -1,0 +1,25 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+149,Metabolic pathways,map01100,8.068403224499672e-29,6078,1.199769919503048,Other,Other,3.017582805962877e-26
+220,Biosynthesis of secondary metabolites,map01110,1.5674089871555486e-17,2637,1.2054643094499637,Other,Other,5.862109611961752e-15
+318,Biosynthesis of amino acids,map01230,1.1307251609507857e-14,1276,1.2654258171433868,Other,Other,4.228912101955939e-12
+171,Photosynthesis,map00195,3.083642380682069e-11,118,1.994880998820303,Metabolism,Energy metabolism,1.1532822503750938e-08
+46,Porphyrin metabolism,map00860,6.809835931162084e-11,264,1.552517036958696,Metabolism,Metabolism of cofactors and vitamins,2.5468786382546194e-08
+135,Photosynthesis - antenna proteins,map00196,1.7584736090415917e-10,0,0.0,Metabolism,Energy metabolism,6.576691297815553e-08
+352,Fructose and mannose metabolism,map00051,2.88336345541275e-10,412,1.3988568447086775,Metabolism,Carbohydrate metabolism,1.0783779323243684e-07
+359,Microbial metabolism in diverse environments,map01120,1.937351565629562e-09,1456,1.1861956307305368,Other,Other,7.245694855454563e-07
+62,Phosphotransferase system (PTS),map02060,3.5257182499861736e-09,254,1.4949724677597236,Environmental Information Processing,Membrane transport,1.3186186254948289e-06
+332,Biosynthesis of cofactors,map01240,5.513895271385656e-09,1162,1.202241980819674,Other,Other,2.0621968314982353e-06
+126,Sulfur metabolism,map00920,5.9308941680824805e-09,160,1.6587509319502225,Metabolism,Energy metabolism,2.2181544188628477e-06
+100,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,3.2680184914185055e-08,344,1.3778682735178565,Metabolism,Amino acid metabolism,1.222238915790521e-05
+219,Pentose and glucuronate interconversions,map00040,5.0983677387872574e-08,221,1.489982703940755,Metabolism,Carbohydrate metabolism,1.9067895343064343e-05
+322,Bacterial secretion system,map03070,7.136667254715324e-08,104,0.6083737153302371,Environmental Information Processing,Membrane transport,2.669113553263531e-05
+295,Quorum sensing,map02024,1.1987891568423473e-06,315,0.7633302865513235,Cellular Processes,Cellular community - prokaryotes,0.0004483471446590379
+206,beta-Lactam resistance,map01501,1.7759847150298225e-06,94,0.6254727630544777,Human Diseases,Drug resistance: antimicrobial,0.0006642182834211536
+89,DNA replication,map03030,9.2946495811108e-06,120,0.6763776192786763,Genetic Information Processing,Replication and repair,0.0034761989433354395
+68,Fatty acid biosynthesis,map00061,1.9504870014323986e-05,120,1.5230695809223775,Metabolism,Lipid metabolism,0.007294821385357171
+15,Fatty acid metabolism,map01212,2.2846207213346882e-05,127,1.5010651225408391,Other,Other,0.008544481497791735
+84,2-Oxocarboxylic acid metabolism,map01210,3.462300242721266e-05,222,1.3438978029441506,Other,Other,0.012949002907777533
+194,C5-Branched dibasic acid metabolism,map00660,3.504886566596052e-05,72,1.7127653327720358,Metabolism,Carbohydrate metabolism,0.013108275759069234
+203,Amino sugar and nucleotide sugar metabolism,map00520,3.717813458074191e-05,484,1.2193133673453436,Metabolism,Carbohydrate metabolism,0.013904622333197475
+283,Mismatch repair,map03430,4.447388981589367e-05,145,0.7193558646653889,Genetic Information Processing,Replication and repair,0.016633234791144234
+21,O-Antigen nucleotide sugar biosynthesis,map00541,7.306837573532294e-05,245,1.3080730182929,Metabolism,Glycan biosynthesis and metabolism,0.02732757252501078

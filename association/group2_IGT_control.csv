@@ -1,0 +1,10 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+34,Ribosome,map03010,6.679006185620532e-07,105,0.6302164865793594,Genetic Information Processing,Translation,0.00025046273196076995
+53,Lipopolysaccharide biosynthesis,map00540,3.3421108894386866e-05,56,1.8569521690767519,Metabolism,Glycan biosynthesis and metabolism,0.012532915835395075
+140,ABC transporters,map02010,1.1052911523836768e-46,115,0.32681845972151063,Environmental Information Processing,Membrane transport,4.144841821438788e-44
+154,Photosynthesis - antenna proteins,map00196,3.2522648351782873e-19,49,5.167368777352729,Metabolism,Energy metabolism,1.2195993131918577e-16
+203,Phosphotransferase system (PTS),map02060,4.87253497329645e-18,11,0.156126974576675,Environmental Information Processing,Membrane transport,1.8272006149861686e-15
+247,Penicillin and cephalosporin biosynthesis,map00311,8.654144636448904e-09,18,5.828288991945326,Metabolism,Biosynthesis of other secondary metabolites,3.245304238668339e-06
+253,Lysosome,map04142,2.0709629952034042e-10,61,2.57357501984441,Cellular Processes,Transport and catabolism,7.766111232012766e-08
+266,Other glycan degradation,map00511,3.626102115575913e-07,77,1.902620168842453,Metabolism,Glycan biosynthesis and metabolism,0.00013597882933409674
+323,Porphyrin metabolism,map00860,2.6265806955445468e-05,40,0.5384855034367272,Metabolism,Metabolism of cofactors and vitamins,0.00984967760829205

@@ -1,0 +1,46 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+309,ABC transporters,map02010,1.9485712862826946e-94,3200,1.5183504883662924,Environmental Information Processing,Membrane transport,7.307142323560105e-92
+262,Lipopolysaccharide biosynthesis,map00540,5.874836996879869e-30,60,0.29673695083629215,Metabolism,Glycan biosynthesis and metabolism,2.203063873829951e-27
+328,Photosynthesis - antenna proteins,map00196,1.8096998998030736e-25,1,0.01563719591218269,Metabolism,Energy metabolism,6.786374624261526e-23
+271,Flagellar assembly,map02040,9.806870369063945e-21,89,0.4159196679018731,Cellular Processes,Cell motility,3.677576388398979e-18
+33,Atrazine degradation,map00791,1.5162337152236106e-20,66,4.6060652246392095,Metabolism,Xenobiotics biodegradation and metabolism,5.68587643208854e-18
+113,Porphyrin metabolism,map00860,4.0523774994131716e-20,691,1.4776600864641087,Metabolism,Metabolism of cofactors and vitamins,1.5196415622799393e-17
+294,Biosynthesis of amino acids,map01230,8.522841666731922e-17,3259,1.1743618755704033,Other,Other,3.196065625024471e-14
+114,MicroRNAs in cancer,map05206,1.6742818289177647e-11,35,0.3700520737962917,Human Diseases,Cancer: overview,6.278556858441618e-09
+95,Microbial metabolism in diverse environments,map01120,2.166057588835276e-09,3730,1.1135891775827451,Other,Other,8.122715958132285e-07
+123,Two-component system,map02020,3.917982622270874e-09,1207,0.8407017380281188,Environmental Information Processing,Signal transduction,1.4692434833515777e-06
+151,2-Oxocarboxylic acid metabolism,map01210,5.91662366167388e-09,584,1.3010017929482727,Other,Other,2.218733873127705e-06
+307,Mismatch repair,map03430,5.96503485702762e-09,419,0.7533530774209285,Genetic Information Processing,Replication and repair,2.2368880713853574e-06
+177,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,6.056727331898821e-09,42,0.44376954584476874,Metabolism,Metabolism of cofactors and vitamins,2.2712727494620576e-06
+28,Selenocompound metabolism,map00450,6.6205999710640195e-09,381,1.387876648313482,Metabolism,Metabolism of other amino acids,2.4827249891490074e-06
+144,Bacterial secretion system,map03070,8.479385548431486e-09,347,0.7363212553146922,Environmental Information Processing,Membrane transport,3.1797695806618074e-06
+35,beta-Lactam resistance,map01501,9.30896991532533e-09,303,0.7221969709577513,Human Diseases,Drug resistance: antimicrobial,3.490863718246999e-06
+57,C5-Branched dibasic acid metabolism,map00660,1.670536996253297e-08,180,1.604938658772172,Metabolism,Carbohydrate metabolism,6.264513735949863e-06
+196,Pertussis,map05133,3.538099786736671e-08,18,0.3269344831005645,Human Diseases,Infectious disease: bacterial,1.3267874200262515e-05
+51,Pentose and glucuronate interconversions,map00040,5.948778101109811e-08,522,1.2950589214601025,Metabolism,Carbohydrate metabolism,2.230791787916179e-05
+4,Biosynthesis of various plant secondary metabolites,map00999,9.485580491357104e-08,230,1.4770674271104065,Metabolism,Biosynthesis of other secondary metabolites,3.557092684258914e-05
+234,Photosynthesis,map00195,1.9723733352240392e-07,235,1.45505040758851,Metabolism,Energy metabolism,7.396400007090147e-05
+249,Arabinogalactan biosynthesis - Mycobacterium,map00572,3.0426460786256365e-07,0,0.0,Metabolism,Glycan biosynthesis and metabolism,0.00011409922794846137
+222,Phosphotransferase system (PTS),map02060,3.0804829435671714e-07,567,1.2628835395829803,Environmental Information Processing,Membrane transport,0.00011551811038376893
+153,Glucosinolate biosynthesis,map00966,5.562641051882802e-07,82,1.886954820136994,Metabolism,Biosynthesis of other secondary metabolites,0.00020859903944560505
+25,Lysosome,map04142,8.03876162418903e-07,97,0.6178335418438643,Cellular Processes,Transport and catabolism,0.0003014535609070886
+189,Huntington disease,map05016,1.922635069902592e-06,1,0.056961983134470665,Human Diseases,Neurodegenerative disease,0.000720988151213472
+284,FoxO signaling pathway,map04068,2.2087822274095594e-06,0,0.0,Environmental Information Processing,Signal transduction,0.0008282933352785848
+176,Glycosaminoglycan degradation,map00531,4.013845752650598e-06,54,0.5528222506223165,Metabolism,Glycan biosynthesis and metabolism,0.0015051921572439742
+154,Homologous recombination,map03440,4.543925542772759e-06,500,0.8124375413984767,Genetic Information Processing,Replication and repair,0.0017039720785397845
+74,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,6.091580081469585e-06,811,1.1860369114520912,Metabolism,Amino acid metabolism,0.0022843425305510943
+368,Cationic antimicrobial peptide (CAMP) resistance,map01503,6.2847782564124215e-06,177,0.7142298499886743,Human Diseases,Drug resistance: antimicrobial,0.002356791846154658
+116,Carbon metabolism,map01200,8.850522005059182e-06,1955,1.1143692969141794,Other,Other,0.003318945751897193
+240,"Valine, leucine and isoleucine degradation",map00280,1.0527532142336106e-05,111,0.6640836877672884,Metabolism,Amino acid metabolism,0.003947824553376039
+231,Epithelial cell signaling in Helicobacter pylori infection,map05120,1.529121496338665e-05,94,1.6505014590149463,Human Diseases,Infectious disease: bacterial,0.005734205611269994
+56,Peptidoglycan biosynthesis,map00550,1.6339834071498944e-05,557,0.8306565959306861,Metabolism,Glycan biosynthesis and metabolism,0.006127437776812104
+343,Riboflavin metabolism,map00740,1.7437384790633075e-05,213,0.7456500006144818,Metabolism,Metabolism of cofactors and vitamins,0.006539019296487403
+232,Longevity regulating pathway,map04211,2.5152032185766224e-05,0,0.0,Organismal Systems,Aging,0.009432012069662335
+264,HIF-1 signaling pathway,map04066,4.1898578589815955e-05,206,1.3651418061724916,Environmental Information Processing,Signal transduction,0.015711966971180984
+273,Methane metabolism,map00680,4.546417243492251e-05,696,1.180271011419707,Metabolism,Energy metabolism,0.017049064663095942
+361,NOD-like receptor signaling pathway,map04621,5.816048790041405e-05,78,0.6415266788809378,Organismal Systems,Immune system,0.02181018296265527
+236,DNA replication,map03030,7.918706877463742e-05,400,0.8185974883411763,Genetic Information Processing,Replication and repair,0.029695150790489032
+355,Ribosome,map03010,8.392506915956251e-05,1184,1.130177141323725,Genetic Information Processing,Translation,0.03147190093483594
+342,Shigellosis,map05131,8.876303828352293e-05,2,0.13234561975220707,Human Diseases,Infectious disease: bacterial,0.033286139356321104
+128,Degradation of flavonoids,map00946,0.0001176366978563266,142,1.4251829284043298,Metabolism,Biosynthesis of other secondary metabolites,0.044113761696122473
+288,"Valine, leucine and isoleucine biosynthesis",map00290,0.00012499546858692163,271,1.2885094187381685,Metabolism,Amino acid metabolism,0.04687330072009561

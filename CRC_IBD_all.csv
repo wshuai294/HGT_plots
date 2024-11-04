@@ -1,0 +1,5 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+21,Oxidative phosphorylation,map00190,6.995827658880961e-09,4528,0.8560409796735102,Metabolism,Energy metabolism,2.6164395444214793e-06
+35,Photosynthesis,map00195,1.0837896443794088e-09,1303,0.7470086526430082,Metabolism,Energy metabolism,4.053373269978989e-07
+80,Cysteine and methionine metabolism,map00270,1.2579110041746165e-05,7543,1.1029389223912933,Metabolism,Amino acid metabolism,0.0047045871556130655
+335,Phosphotransferase system (PTS),map02060,4.0475959092122566e-10,4040,0.8384117775268511,Environmental Information Processing,Membrane transport,1.513800870045384e-07

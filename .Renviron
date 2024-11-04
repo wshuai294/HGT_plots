@@ -1,0 +1,1 @@
+PATH="${RTOOLS42_HOME}\usr\bin;${PATH}"

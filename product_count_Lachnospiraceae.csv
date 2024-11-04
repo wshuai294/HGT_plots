@@ -1,0 +1,1417 @@
+	Product	Count
+0	hypothetical protein	5185
+1	tRNA	117
+2	Multidrug export protein MepA	60
+3	Adaptive-response sensory-kinase SasA	52
+4	TwoAYGGAY	50
+5	Clostridiales-1	37
+6	Sensor histidine kinase RcsC	35
+7	Vitamin B12 import ATP-binding protein BtuD	33
+8	Cytidylate kinase	29
+9	HTH-type transcriptional activator RhaR	26
+10	putative ABC transporter ATP-binding protein	24
+11	T-box	23
+12	putative FMN/FAD exporter YeeO	22
+13	Transcriptional regulatory protein WalR	21
+14	L-arabinose transport system permease protein AraQ	21
+15	HTH-type transcriptional activator RhaS	20
+16	group-II-D1D4-3	17
+17	Intron_gpII	16
+18	3-oxoacyl-[acyl-carrier-protein] reductase FabG	16
+19	Tyrosine recombinase XerC	16
+20	Transcriptional regulatory protein SrrA	15
+21	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	15
+22	L-methionine gamma-lyase	13
+23	Phosphoglycolate phosphatase	13
+24	Glycerol kinase	13
+25	group-II-D1D4-1	12
+26	Coenzyme PQQ synthesis protein E	12
+27	Transposase from transposon Tn916	12
+28	DNA-directed RNA polymerase subunit beta	11
+29	1-deoxy-D-xylulose-5-phosphate synthase	11
+30	IS200/IS605 family transposase IS1341	11
+31	tRNA-specific adenosine deaminase	11
+32	UvrABC system protein A	11
+33	c-di-GMP-I	11
+34	putative protein	11
+35	Lactose transport system permease protein LacF	11
+36	Chemotaxis response regulator protein-glutamate methylesterase	11
+37	Siroheme synthase	11
+38	Transcriptional regulator SlyA	10
+39	Serine/threonine-protein kinase PknD	10
+40	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase	10
+41	Methionine--tRNA ligase	10
+42	Nucleoid occlusion protein	10
+43	Fatty acid-binding protein	10
+44	RAGATH-18	9
+45	Accessory gene regulator protein B	9
+46	putative multiple-sugar transport system permease YteP	9
+47	Acyl carrier protein	9
+48	Putative multidrug export ATP-binding/permease protein	9
+49	23S rRNA (uracil-C(5))-methyltransferase RlmCD	9
+50	Chromosome partition protein Smc	9
+51	UvrABC system protein B	9
+52	LSU_rRNA_bacteria	9
+53	Sensory transduction protein LytR	9
+54	putative ABC transporter ATP-binding protein YxlF	9
+55	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	9
+56	Glutamyl-tRNA(Gln) amidotransferase subunit A	9
+57	Single-stranded DNA-binding protein	9
+58	Response regulator ArlR	9
+59	Membrane-bound lytic murein transglycosylase F	9
+60	8-oxo-dGTP diphosphatase	9
+61	Macrolide export ATP-binding/permease protein MacB	9
+62	Elongation factor G	8
+63	Magnesium transporter MgtE	8
+64	Phosphocarrier protein HPr	8
+65	tmRNA	8
+66	Glycerate 2-kinase	8
+67	Imidazole glycerol phosphate synthase subunit HisF	8
+68	Bacteriohemerythrin	8
+69	Glutamine transport ATP-binding protein GlnQ	8
+70	DNA topoisomerase 3	8
+71	IS3 family transposase ISEfa10	8
+72	Amino-acid carrier protein AlsT	8
+73	Elongation factor Tu	7
+74	Adenylosuccinate synthetase	7
+75	Lactaldehyde reductase	7
+76	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	7
+77	Cysteine desulfurase IscS	7
+78	Phosphoenolpyruvate-protein phosphotransferase	7
+79	Ribonuclease R	7
+80	SSU_rRNA_bacteria	7
+81	HTH-type transcriptional repressor CytR	7
+82	ATP-dependent 6-phosphofructokinase	7
+83	Replicative DNA helicase	7
+84	Histidinol-phosphate aminotransferase	7
+85	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase	7
+86	Immunity protein SdpI	7
+87	Hydroxylamine reductase	7
+88	Cadmium%2C zinc and cobalt-transporting ATPase	7
+89	Potassium/sodium uptake protein NtpJ	7
+90	Glucose-6-phosphate isomerase	7
+91	ECF RNA polymerase sigma factor SigE	7
+92	Inner membrane protein YrbG	7
+93	Fe(2+) transporter FeoB	7
+94	Putative prophage phiRv2 integrase	7
+95	group-II-D1D4-6	7
+96	TPP	7
+97	Beta-galactosidase	7
+98	Bacitracin export ATP-binding protein BceA	7
+99	O-acetyl-ADP-ribose deacetylase	7
+100	HTH-type transcriptional repressor PurR	7
+101	Aspartate--tRNA(Asp/Asn) ligase	7
+102	Catabolite control protein A	7
+103	Putative nuclease YhcG	7
+104	L10_leader	7
+105	50S ribosomal protein L10	7
+106	50S ribosomal protein L7/L12	7
+107	Ribosomal RNA small subunit methyltransferase H	7
+108	Formate acetyltransferase	7
+109	30S ribosomal protein S7	6
+110	3-oxoacyl-[acyl-carrier-protein] synthase 2	6
+111	putative ABC transporter ATP-binding protein YbiT	6
+112	HTH-type transcriptional regulator CymR	6
+113	HTH-type transcriptional regulator HdfR	6
+114	HTH-type transcriptional regulator CynR	6
+115	Sensor histidine kinase GraS	6
+116	Putative aminotransferase/MSMEI_6121	6
+117	Cystathionine beta-lyase PatB	6
+118	NADH pyrophosphatase	6
+119	IS200/IS605 family transposase ISEnfa200	6
+120	ECF RNA polymerase sigma factor SigW	6
+121	CysO-cysteine peptidase	6
+122	Nitronate monooxygenase	6
+123	Malonyl CoA-acyl carrier protein transacylase	6
+124	GTP pyrophosphokinase YwaC	6
+125	Type 4 prepilin-like proteins leader peptide-processing enzyme	6
+126	drum	6
+127	Methylated-DNA--protein-cysteine methyltransferase	6
+128	50S ribosomal protein L9	6
+129	Aldose 1-epimerase	6
+130	3'-5' exoribonuclease YhaM	6
+131	Cell division ATP-binding protein FtsE	6
+132	Transcriptional repressor SdpR	6
+133	Thiol-disulfide oxidoreductase ResA	6
+134	Acetylornithine aminotransferase	6
+135	DNA polymerase IV	6
+136	Imidazole glycerol phosphate synthase subunit HisH	6
+137	DNA-binding protein HU	6
+138	Tryptophan synthase beta chain	6
+139	DNA polymerase III subunit alpha	6
+140	D-alanyl-D-alanine carboxypeptidase	6
+141	DNA replication and repair protein RecF	6
+142	NADH-dependent butanol dehydrogenase A	6
+143	putative membrane protein YdfK	6
+144	DNA primase	6
+145	Response regulator SaeR	6
+146	Caffeyl-CoA reductase-Etf complex subunit CarE	6
+147	IS110 family transposase ISCsa3	6
+148	IS110 family transposase ISCsa4	6
+149	Adapter protein MecA	6
+150	IS66 family transposase ISCsc1	6
+151	IS30 family transposase ISSmi1	6
+152	Aspartokinase	6
+153	Protein YhgF	6
+154	Biotin transporter BioY	6
+155	Spermidine/putrescine transport system permease protein PotB	6
+156	S-adenosylmethionine synthase	6
+157	Glycogen phosphorylase	6
+158	Oligo-1%2C6-glucosidase	6
+159	IS3 family transposase ISEnfa5	6
+160	30S ribosomal protein S12	5
+161	Putative fluoride ion transporter CrcB	5
+162	L-lactate dehydrogenase	5
+163	FMN	5
+164	ABC transporter ATP-binding protein NatA	5
+165	HTH-type transcriptional repressor YtrA	5
+166	Polyamine aminopropyltransferase	5
+167	Phosphopentomutase	5
+168	Ribosomal RNA small subunit methyltransferase I	5
+169	PTS system fructose-specific EIIABC component	5
+170	SsrA-binding protein	5
+171	putative adenylyltransferase/sulfurtransferase MoeZ	5
+172	Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit	5
+173	putative HTH-type transcriptional regulator	5
+174	Ferredoxin	5
+175	Aspartate aminotransferase	5
+176	Regulator of RpoS	5
+177	Acetyl esterase	5
+178	Cell division protein FtsX	5
+179	Tyrosine--tRNA ligase	5
+180	putative ABC transporter ATP-binding protein YknY	5
+181	Enolase	5
+182	pemK	5
+183	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	5
+184	Anaerobic ribonucleoside-triphosphate reductase-activating protein	5
+185	putative protein YqeN	5
+186	GMP synthase [glutamine-hydrolyzing]	5
+187	IS21 family transposase ISPpu7	5
+188	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase	5
+189	Pyruvate%2C phosphate dikinase	5
+190	Sucrose-6-phosphate hydrolase	5
+191	Fructose-bisphosphate aldolase	5
+192	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	5
+193	Homoserine O-acetyltransferase	5
+194	Transcriptional repressor SmtB	5
+195	Low molecular weight protein-tyrosine-phosphatase YfkJ	5
+196	5S_rRNA	5
+197	Transketolase	5
+198	Putative septation protein SpoVG	5
+199	Glucose-1-phosphate adenylyltransferase	5
+200	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	5
+201	Group II intron-encoded protein LtrA	5
+202	ATP-dependent RecD-like DNA helicase	5
+203	Diaminopimelate decarboxylase	5
+204	Sensor protein KdpD	5
+205	Ktr system potassium uptake protein A	5
+206	Elongation factor P	5
+207	tRNA pseudouridine synthase A	5
+208	IS3 family transposase ISRgn1	5
+209	Protein ADP-ribosyltransferase	5
+210	Shikimate kinase	5
+211	Ribosome hibernation promotion factor	5
+212	Protein translocase subunit SecA	5
+213	Ribosomal large subunit pseudouridine synthase D	5
+214	Nitrogen regulatory protein P-II	5
+215	LexA repressor	5
+216	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	5
+217	Biotin synthase	5
+218	ZMP-ZTP	5
+219	Histidinol-phosphatase	5
+220	mupirocin-resistant isoleucine--tRNA ligase MupA	5
+221	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	5
+222	Deoxyribose-phosphate aldolase	5
+223	Porphobilinogen deaminase	5
+224	L(+)-tartrate dehydratase subunit alpha	5
+225	putative N-acetyltransferase YvbK	5
+226	Threonine--tRNA ligase	5
+227	Uracil phosphoribosyltransferase	5
+228	Peptide chain release factor 1	5
+229	DNA-directed RNA polymerase subunit beta'	4
+230	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	4
+231	O-acetylserine sulfhydrylase	4
+232	IS607 family transposase ISCbt3	4
+233	Thioredoxin reductase	4
+234	Arginine decarboxylase	4
+235	Transcriptional regulatory protein YpdB	4
+236	Lactococcin-G-processing and transport ATP-binding protein LagD	4
+237	Large-conductance mechanosensitive channel	4
+238	Isopentenyl-diphosphate Delta-isomerase	4
+239	Galactoside O-acetyltransferase	4
+240	Tagatose-6-phosphate kinase	4
+241	Rubrerythrin-1	4
+242	Thioredoxin 1	4
+243	Isocitrate dehydrogenase [NADP]	4
+244	Exodeoxyribonuclease	4
+245	Regulatory protein MgsR	4
+246	Short-chain-enoyl-CoA hydratase	4
+247	Pyrroline-5-carboxylate reductase	4
+248	Dihydroorotate dehydrogenase B (NAD(+))%2C catalytic subunit	4
+249	Orotidine 5'-phosphate decarboxylase	4
+250	Transcriptional regulatory protein BtsR	4
+251	Fructokinase	4
+252	Glutamine synthetase	4
+253	tRNA-specific 2-thiouridylase MnmA	4
+254	IS200/IS605 family transposase ISBth15	4
+255	Aspartate 1-decarboxylase	4
+256	Pantothenate synthetase	4
+257	Endonuclease MutS2	4
+258	Beta-lactam-inducible penicillin-binding protein	4
+259	D-aminoacyl-tRNA deacylase	4
+260	8-methylmenaquinol:fumarate reductase flavoprotein subunit	4
+261	Acetolactate synthase isozyme 3 small subunit	4
+262	putative phosphatase YcdX	4
+263	Uracil-DNA glycosylase	4
+264	Proline--tRNA ligase	4
+265	CCA-adding enzyme	4
+266	Spore protein YabP	4
+267	N-(5'-phosphoribosyl)anthranilate isomerase	4
+268	Tryptophan synthase alpha chain	4
+269	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	4
+270	Conserved virulence factor B	4
+271	Riboflavin transporter	4
+272	Undecaprenyl-diphosphatase BcrC	4
+273	Peroxide-responsive repressor PerR	4
+274	IS21 family transposase ISSpu5	4
+275	Putative HTH-type transcriptional regulator YwnA	4
+276	HTH-type transcriptional regulator MalT	4
+277	Glutamine--tRNA ligase	4
+278	Heat-inducible transcription repressor HrcA	4
+279	DNA ligase	4
+280	Zinc transporter ZupT	4
+281	Glycogen debranching enzyme	4
+282	Serine--tRNA ligase	4
+283	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	4
+284	D-alanine--D-alanine ligase	4
+285	Regulator of sigma-W protease RasP	4
+286	LOG family protein YvdD	4
+287	Multidrug resistance protein MdtK	4
+288	Guanylate kinase	4
+289	Chaperone protein DnaJ	4
+290	N-acetyl-gamma-glutamyl-phosphate reductase	4
+291	Putative peroxiredoxin bcp	4
+292	IS110 family transposase ISEnfa110	4
+293	Thiamine-phosphate synthase	4
+294	IS66 family transposase ISSwo2	4
+295	Phenylalanine--tRNA ligase alpha subunit	4
+296	Phenylalanine--tRNA ligase beta subunit	4
+297	Electron transport complex subunit RsxB	4
+298	Glucan endo-1%2C3-beta-glucosidase A1	4
+299	Single-stranded-DNA-specific exonuclease RecJ	4
+300	HTH-type transcriptional regulator PuuR	4
+301	Alpha-galactosidase AgaA	4
+302	Betaine aldehyde dehydrogenase	4
+303	tRNA threonylcarbamoyladenosine dehydratase	4
+304	Ribosomal RNA large subunit methyltransferase I	4
+305	Argininosuccinate lyase	4
+306	Ammonium transporter	4
+307	KDP operon transcriptional regulatory protein KdpE	4
+308	IS256 family transposase ISPeth3	4
+309	Peptide chain release factor 2	4
+310	Histidine--tRNA ligase	4
+311	Prolipoprotein diacylglyceryl transferase	4
+312	putative M18 family aminopeptidase 2	4
+313	Protein translocase subunit SecE	4
+314	Transcription termination/antitermination protein NusG	4
+315	50S ribosomal protein L11	4
+316	50S ribosomal protein L1	4
+317	Bacitracin export permease protein BceB	4
+318	D-galactose-binding periplasmic protein	4
+319	Aspartate--tRNA ligase	4
+320	Thermostable beta-glucosidase B	4
+321	Melibiose operon regulatory protein	4
+322	Transcription-repair-coupling factor	4
+323	Anaerobic nitric oxide reductase flavorubredoxin	4
+324	putative N-acetyltransferase YjaB	4
+325	NAD-dependent protein deacetylase	4
+326	Thiosulfate sulfurtransferase GlpE	4
+327	Fumarate hydratase class I%2C anaerobic	4
+328	L-aspartate oxidase	4
+329	Quinolinate synthase A	4
+330	NADP-reducing hydrogenase subunit HndD	4
+331	putative HTH-type transcriptional regulator YybR	4
+332	Release factor glutamine methyltransferase	4
+333	Transcription termination factor Rho	4
+334	RNA polymerase sigma factor YlaC	4
+335	Flagellar basal-body rod protein FlgG	4
+336	4-alpha-glucanotransferase	4
+337	DegV domain-containing protein	3
+338	Response regulator protein GraR	3
+339	Trigger factor	3
+340	Hydrogen peroxide-inducible genes activator	3
+341	p-hydroxybenzoic acid efflux pump subunit AaeA	3
+342	HTH-type transcriptional repressor RspR	3
+343	Ribosomal RNA large subunit methyltransferase K/L	3
+344	Adenosine deaminase	3
+345	Twitching mobility protein	3
+346	Putative type II secretion system protein F	3
+347	putative protein-export membrane protein SecG	3
+348	Methicillin resistance regulatory protein MecI	3
+349	Serine/threonine transporter SstT	3
+350	HTH-type transcriptional regulator BenM	3
+351	CTP synthase	3
+352	Serine/threonine phosphatase stp	3
+353	putative dual-specificity RNA methyltransferase RlmN	3
+354	HTH-type transcriptional activator mta	3
+355	ATP-dependent zinc metalloprotease FtsH	3
+356	Melibiose carrier protein	3
+357	Arabinose operon regulatory protein	3
+358	UDP-galactopyranose mutase	3
+359	Cysteine synthase	3
+360	CRISPR-associated endonuclease Cas1	3
+361	IS200/IS605 family transposase ISCbo8	3
+362	Inner membrane ABC transporter permease protein YcjP	3
+363	2-dehydro-3-deoxygluconokinase	3
+364	Putative acetyltransferase	3
+365	GTP-binding protein TypA/BipA	3
+366	Inosine-5'-monophosphate dehydrogenase	3
+367	Transcriptional regulatory protein NatR	3
+368	Cyclic-di-AMP phosphodiesterase GdpP	3
+369	Calcium-transporting ATPase 1	3
+370	3-methyl-2-oxobutanoate hydroxymethyltransferase	3
+371	Nucleoid-associated protein	3
+372	GTPase HflX	3
+373	Dihydroorotase	3
+374	HTH-type transcriptional regulator YofA	3
+375	IS256 family transposase ISDet4	3
+376	Choline trimethylamine-lyase	3
+377	Phosphatase YwpJ	3
+378	Putative 2-hydroxyacid dehydrogenase	3
+379	Phosphoglucosamine mutase	3
+380	Anthranilate phosphoribosyltransferase	3
+381	Indole-3-glycerol phosphate synthase	3
+382	Phosphoribosylaminoimidazole-succinocarboxamide synthase	3
+383	IS630 family transposase ISCARN21	3
+384	Glycerate dehydrogenase	3
+385	Pantothenate precursors transporter PanS	3
+386	DNA polymerase I	3
+387	Orotate phosphoribosyltransferase	3
+388	tRNA modification GTPase MnmE	3
+389	ISNCY family transposase ISCb1	3
+390	DNA polymerase III PolC-type	3
+391	Cyclic di-GMP phosphodiesterase	3
+392	Aspartate carbamoyltransferase regulatory chain	3
+393	Aspartate carbamoyltransferase catalytic subunit	3
+394	3'3'-cGAMP-specific phosphodiesterase 1	3
+395	Endoribonuclease EndoA	3
+396	Protein LacX%2C plasmid	3
+397	Modification methylase HaeIII	3
+398	SpF66_sRNA	3
+399	Acetate kinase	3
+400	Thiazole synthase	3
+401	Isoprimeverose transporter	3
+402	High-affinity proline transporter PutP	3
+403	L-cystine transport system permease protein YecS	3
+404	Peptide deformylase	3
+405	Prolyl-tRNA editing protein ProX	3
+406	L-glutamyl-[BtrI acyl-carrier protein] decarboxylase	3
+407	Peptidoglycan O-acetyltransferase	3
+408	Flavin prenyltransferase UbiX	3
+409	Putative glutamine amidotransferase	3
+410	Type II secretion system protein F	3
+411	ATP-dependent Clp protease ATP-binding subunit ClpX	3
+412	Acryloyl-CoA reductase electron transfer subunit gamma	3
+413	Argininosuccinate synthase	3
+414	PTS system glucose-specific EIICBA component	3
+415	PTS system mannose-specific EIID component	3
+416	N%2CN'-diacetylchitobiose phosphorylase	3
+417	Phosphate acetyltransferase	3
+418	Beta-galactosidase BgaA	3
+419	Transcriptional regulator MntR	3
+420	Chaperone protein HtpG	3
+421	Foldase protein PrsA	3
+422	Unsaturated chondroitin disaccharide hydrolase	3
+423	IS200/IS605 family transposase ISDha13	3
+424	Arginine biosynthesis bifunctional protein ArgJ	3
+425	N-substituted formamide deformylase	3
+426	3-dehydroquinate dehydratase	3
+427	Lipoprotein signal peptidase	3
+428	Pantothenate kinase	3
+429	Glutamate racemase 1	3
+430	Homoserine dehydrogenase	3
+431	Arginine-binding extracellular protein ArtP	3
+432	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	3
+433	Cell division suppressor protein YneA	3
+434	Glycogen synthase	3
+435	putative ABC transporter ATP-binding protein YheS	3
+436	Riboflavin transporter RibU	3
+437	Energy-coupling factor transporter transmembrane protein EcfT	3
+438	HTH-type transcriptional regulator MurR	3
+439	IS200/IS605 family transposase ISDge19	3
+440	HTH-type transcriptional regulator CysL	3
+441	Peptidase T	3
+442	Glutamine-dependent NAD(+) synthetase	3
+443	GTPase Der	3
+444	Alanine--tRNA ligase	3
+445	Low specificity L-threonine aldolase	3
+446	Protein-L-isoaspartate O-methyltransferase	3
+447	Ribonuclease J1	3
+448	Glutamyl-tRNA(Gln) amidotransferase subunit C	3
+449	Spermidine/putrescine-binding periplasmic protein	3
+450	HTH-type transcriptional regulator IscR	3
+451	Asparagine synthetase [glutamine-hydrolyzing] 1	3
+452	Phosphorylated carbohydrates phosphatase	3
+453	Elongation factor Ts	3
+454	30S ribosomal protein S2	3
+455	GTP-sensing transcriptional pleiotropic repressor CodY	3
+456	IS66 family transposase ISRgn2	3
+457	Cyclodextrin-binding protein	3
+458	Sporulation initiation inhibitor protein Soj	3
+459	Copper homeostasis protein CutC	3
+460	Oligopeptide transport ATP-binding protein OppD	3
+461	Ammonia channel	3
+462	Glyoxylate/hydroxypyruvate reductase B	3
+463	Acetylglutamate kinase	3
+464	SAM	3
+465	Shikimate dehydrogenase (NADP(+))	3
+466	Inner membrane protein YbiR	3
+467	IS200/IS605 family transposase ISCth10	3
+468	Chaperone protein ClpB	3
+469	putative hydrolase YxeP	3
+470	group-II-D1D4-2	3
+471	ATP-dependent dethiobiotin synthetase BioD 1	3
+472	Type I restriction enzyme EcoR124II R protein	3
+473	Neopullulanase	3
+474	Ribosomal RNA large subunit methyltransferase L	3
+475	Glutamate--tRNA ligase	3
+476	Stage V sporulation protein D	3
+477	DNA repair protein RecO	3
+478	GTPase Era	3
+479	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]	3
+480	PTS system glucose-specific EIIA component	3
+481	Glycine	3
+482	putative copper-importing P-type ATPase A	3
+483	IS110 family transposase ISFnu3	3
+484	NADPH-Fe(3+) oxidoreductase subunit beta	3
+485	HTH-type transcriptional regulator DegA	3
+486	Inner membrane protein YgaZ	3
+487	ComE operon protein 3	3
+488	Flavodoxin	3
+489	IS200/IS605 family transposase ISHwa32	3
+490	Iron-sulfur cluster assembly scaffold protein IscU	3
+491	Hca operon transcriptional activator HcaR	3
+492	Dipeptide-binding protein DppE	3
+493	Putative metallophosphoesterase MG207	3
+494	Para-nitrobenzyl esterase	3
+495	Cellobiose phosphorylase	3
+496	50S ribosomal protein L31	3
+497	Phosphatidylserine decarboxylase proenzyme	3
+498	IS30 family transposase ISCth2	3
+499	Thiamine pyrophosphokinase	3
+500	Small ribosomal subunit biogenesis GTPase RsgA	3
+501	Dihydrofolate reductase	3
+502	Pyruvate formate-lyase 1-activating enzyme	3
+503	IS3 family transposase ISCce3	3
+504	Triosephosphate isomerase	3
+505	Phosphoglycerate kinase	3
+506	Glyceraldehyde-3-phosphate dehydrogenase	3
+507	Teichoic acid translocation permease protein TagG	3
+508	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	2
+509	3-oxoacyl-[acyl-carrier-protein] synthase 3	2
+510	Riboflavin biosynthesis protein RibD	2
+511	Bifunctional ribokinase/ribose-5-phosphate isomerase A	2
+512	Spore maturation protein B	2
+513	Peptide deformylase 1	2
+514	IS110 family transposase ISCps8	2
+515	Iron-sulfur cluster carrier protein	2
+516	Aspartate ammonia-lyase	2
+517	SpF59_sRNA	2
+518	IS3 family transposase IS120	2
+519	Purine nucleoside phosphorylase 1	2
+520	Beta-fructosidase	2
+521	Adenylate cyclase CyaB	2
+522	Threonine--tRNA ligase 2	2
+523	Translation initiation factor IF-3	2
+524	50S ribosomal protein L35	2
+525	50S ribosomal protein L20	2
+526	Ribosomal RNA small subunit methyltransferase B	2
+527	Protein YrdA	2
+528	Adenine DNA glycosylase	2
+529	Cyclomaltodextrinase	2
+530	CRISPR-associated endonuclease Cas2	2
+531	Aldehyde-alcohol dehydrogenase	2
+532	Phosphoenolpyruvate carboxykinase (ATP)	2
+533	Lon protease	2
+534	LL-diaminopimelate aminotransferase	2
+535	Flagellar secretion chaperone FliS	2
+536	Protein LemA	2
+537	Anaerobic nitric oxide reductase transcription regulator NorR	2
+538	L-glyceraldehyde 3-phosphate reductase	2
+539	DNA polymerase III subunit gamma/tau	2
+540	Ubiquinone biosynthesis O-methyltransferase	2
+541	HTH-type transcriptional regulator CatM	2
+542	Penicillinase repressor	2
+543	Regulatory protein BlaR1	2
+544	Putative metallo-hydrolase YycJ	2
+545	HTH-type transcriptional regulator SutR	2
+546	Acetolactate synthase large subunit	2
+547	Beta-glucuronidase	2
+548	Transcriptional regulator PerR	2
+549	Ribokinase	2
+550	L-ribulose-5-phosphate 4-epimerase UlaF	2
+551	NADPH dehydrogenase	2
+552	Ribosomal protein L11 methyltransferase	2
+553	Ribosomal RNA small subunit methyltransferase E	2
+554	Flavin-dependent thymidylate synthase	2
+555	6-phospho-beta-galactosidase	2
+556	30S ribosomal protein S20	2
+557	Germination protease	2
+558	Asparagine synthetase [glutamine-hydrolyzing] 3	2
+559	Aminodeoxychorismate/anthranilate synthase component 2	2
+560	putative manganese efflux pump MntP	2
+561	putative fructose-bisphosphate aldolase	2
+562	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE	2
+563	DNA mismatch repair protein MutS	2
+564	Dipeptidyl-peptidase 6	2
+565	Ferrous-iron efflux pump FieF	2
+566	50S ribosomal protein L13	2
+567	30S ribosomal protein S9	2
+568	IS30 family transposase ISSmi3	2
+569	Desulfoferrodoxin	2
+570	putative cardiolipin synthase YwiE	2
+571	Long-chain-fatty-acid--CoA ligase	2
+572	Lactose-binding protein	2
+573	Very short patch repair protein	2
+574	2-aminoadipate transaminase	2
+575	Phenyllactate dehydrogenase	2
+576	DNA repair protein RadA	2
+577	10 kDa chaperonin	2
+578	60 kDa chaperonin	2
+579	Undecaprenyl-diphosphatase	2
+580	Carbamate kinase 1	2
+581	2-iminoacetate synthase	2
+582	23S rRNA pseudouridine(2604) synthase	2
+583	Phospho-2-dehydro-3-deoxyheptonate aldolase%2C Phe-sensitive	2
+584	ADP-ribose pyrophosphatase	2
+585	Ribonuclease Y	2
+586	Membrane lipoprotein TmpC	2
+587	Pectinesterase A	2
+588	putative HTH-type transcriptional repressor ExuR	2
+589	Signal transduction histidine-protein kinase BarA	2
+590	Toxin YoeB	2
+591	Antitoxin YefM	2
+592	Protein CbbY	2
+593	Diacetyl reductase [(S)-acetoin forming]	2
+594	Deoxyguanosinetriphosphate triphosphohydrolase-like protein	2
+595	7-carboxy-7-deazaguanine synthase	2
+596	UDP-N-acetylmuramate--L-alanine ligase	2
+597	Sugar phosphatase YidA	2
+598	tRNA1(Val) (adenine(37)-N6)-methyltransferase	2
+599	putative FAD-linked oxidoreductase	2
+600	Carboxynorspermidine synthase	2
+601	D-alanine--D-alanyl carrier protein ligase	2
+602	Putative glycosyltransferase CsbB	2
+603	sn-glycerol-3-phosphate transport system permease protein UgpA	2
+604	IS1182 family transposase ISClbu1	2
+605	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	2
+606	Diguanylate cyclase DgcN	2
+607	Putative L-lactate dehydrogenase operon regulatory protein	2
+608	Glutaminase 2	2
+609	RNA polymerase sigma-H factor	2
+610	Chemotaxis protein CheY	2
+611	Fructose-1%2C6-bisphosphatase class 3	2
+612	Transcriptional regulatory protein DegU	2
+613	IS701 family transposase ISDha16	2
+614	Rhamnulose-1-phosphate aldolase	2
+615	ATP synthase subunit b%2C sodium ion specific	2
+616	ATP synthase subunit delta	2
+617	ATP synthase subunit alpha	2
+618	ATP synthase epsilon chain	2
+619	Iron import ATP-binding/permease protein IrtA	2
+620	ATP-dependent helicase/nuclease subunit A	2
+621	Alcohol dehydrogenase 2	2
+622	NAD(P)-dependent benzaldehyde dehydrogenase	2
+623	Spermidine/putrescine import ATP-binding protein PotA	2
+624	ISL3 family transposase ISHaha2	2
+625	C4-dicarboxylic acid transporter DauA	2
+626	Peptide transporter CstA	2
+627	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase	2
+628	6S	2
+629	Threonine synthase	2
+630	Phosphoglucomutase	2
+631	DNA-directed RNA polymerase subunit omega	2
+632	Ribosomal protein S12 methylthiotransferase RimO	2
+633	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2
+634	Nicotinamide-nucleotide amidohydrolase PncC	2
+635	Arginine--tRNA ligase	2
+636	Ketol-acid reductoisomerase (NADP(+))	2
+637	Cell division protein SepF	2
+638	Pyridoxal phosphate homeostasis protein	2
+639	Bifunctional protein GlmU	2
+640	Aspartate-semialdehyde dehydrogenase 2	2
+641	putative glutamine ABC transporter permease protein GlnP	2
+642	putative glutamine ABC transporter permease protein GlnM	2
+643	Major cell-binding factor	2
+644	Gamma-D-glutamyl-L-diamino acid endopeptidase 1	2
+645	cytosol aminopeptidase	2
+646	Citrate lyase acyl carrier protein	2
+647	Citrate lyase subunit beta	2
+648	Citrate lyase alpha chain	2
+649	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase	2
+650	IS5 family transposase ISLpl3	2
+651	Bifunctional oligoribonuclease and PAP phosphatase NrnA	2
+652	Putative SOS response-associated peptidase YedK	2
+653	HTH-type transcriptional activator CmpR	2
+654	Pyruvate synthase	2
+655	Phosphate-specific transport system accessory protein PhoU	2
+656	Phosphate import ATP-binding protein PstB 3	2
+657	Phosphate transport system permease protein PstC	2
+658	Amidophosphoribosyltransferase	2
+659	Xylan 1%2C4-beta-xylosidase	2
+660	Putative HMP/thiamine import ATP-binding protein YkoD	2
+661	Cysteine desulfurase SufS	2
+662	ECF RNA polymerase sigma factor SigM	2
+663	putative HTH-type transcriptional regulator YbbH	2
+664	Phosphodiesterase YfcE	2
+665	putative D-xylose utilization operon transcriptional repressor	2
+666	50S ribosomal protein L33 1	2
+667	Butanoate coenzyme A-transferase	2
+668	Hemolysin secretion protein D%2C chromosomal	2
+669	Alpha-D-glucose 1-phosphate phosphatase YihX	2
+670	Thioredoxin	2
+671	Inner membrane ABC transporter permease protein YdcV	2
+672	L-ribulose-5-phosphate 3-epimerase UlaE	2
+673	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase	2
+674	UDP-N-acetylglucosamine 2-epimerase	2
+675	GDP-perosamine synthase	2
+676	Anaerobic ribonucleoside-triphosphate reductase	2
+677	Galactose-1-phosphate uridylyltransferase	2
+678	Protein ClpV1	2
+679	2-(acetamidomethylene)succinate hydrolase	2
+680	Glycerate 3-kinase	2
+681	Oligopeptide transport system permease protein OppC	2
+682	Dipeptide transport system permease protein DppB	2
+683	Nitrogen regulatory protein P-II 2	2
+684	Peptidyl-tRNA hydrolase	2
+685	Pyruvate formate-lyase-activating enzyme	2
+686	Glucose/galactose-binding lipoprotein	2
+687	Galactose/methyl galactoside import ATP-binding protein MglA	2
+688	GDP-L-fucose synthase	2
+689	Aldo-keto reductase IolS	2
+690	Arginine transport ATP-binding protein ArtM	2
+691	5-formyltetrahydrofolate cyclo-ligase	2
+692	Lactose phosphotransferase system repressor	2
+693	Oxalate-binding protein	2
+694	33 kDa chaperonin	2
+695	Polyphosphate kinase	2
+696	Endoribonuclease ToxN	2
+697	group-II-D1D4-4	2
+698	Cobalt-precorrin-2 C(20)-methyltransferase	2
+699	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	2
+700	Sirohydrochlorin cobaltochelatase	2
+701	Pyrimidine-nucleoside phosphorylase	2
+702	Carnitine transport permease protein OpuCD	2
+703	Carnitine transport binding protein OpuCC	2
+704	Multidrug resistance protein NorM	2
+705	Doxorubicin resistance ATP-binding protein DrrA	2
+706	Fluoride	2
+707	Hydrogenase maturation factor HypB	2
+708	tRNA-dihydrouridine(16) synthase	2
+709	2-methylcitrate synthase 1	2
+710	3-phosphoshikimate 1-carboxyvinyltransferase	2
+711	putative UbiX-like flavin prenyltransferase	2
+712	UbiD-like decarboxylase	2
+713	1-deoxy-D-xylulose 5-phosphate reductoisomerase	2
+714	Phosphatidate cytidylyltransferase	2
+715	IS200/IS605 family transposase ISBth14	2
+716	Peptide deformylase 2	2
+717	Xylulose-5-phosphate phosphoketolase	2
+718	Oxygen-independent coproporphyrinogen-III oxidase-like protein	2
+719	Elongation factor 4	2
+720	pan	2
+721	L-cystine-binding protein TcyA	2
+722	RNA-splicing ligase RtcB	2
+723	Chromosome partitioning protein ParA	2
+724	IS200/IS605 family transposase ISCbt1	2
+725	Tyrosine recombinase XerD	2
+726	2-methylcitrate synthase	2
+727	putative peptidoglycan glycosyltransferase FtsW	2
+728	Putative ATP-dependent DNA helicase YjcD	2
+729	Ribosome-binding ATPase YchF	2
+730	Transcriptional regulator MraZ	2
+731	Cell division protein FtsL	2
+732	putative amino acid permease YhdG	2
+733	D-methionine transport system permease protein MetI	2
+734	HTH-type transcriptional regulator AdhR	2
+735	N-acetylglucosamine-6-phosphate deacetylase	2
+736	HTH-type transcriptional regulator ArgP	2
+737	Monofunctional biosynthetic peptidoglycan transglycosylase	2
+738	Chloride/fluoride channel protein	2
+739	HTH-type transcriptional repressor YvoA	2
+740	Transcription elongation factor GreA	2
+741	Phosphomethylpyrimidine synthase	2
+742	Hydroxyethylthiazole kinase	2
+743	4-hydroxy-tetrahydrodipicolinate reductase	2
+744	4-hydroxy-tetrahydrodipicolinate synthase	2
+745	Lysine	2
+746	Cob(I)yrinic acid a%2Cc-diamide adenosyltransferase	2
+747	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	2
+748	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	2
+749	putative manganese/zinc-exporting P-type ATPase	2
+750	Adenine phosphoribosyltransferase	2
+751	30S ribosomal protein S1	2
+752	FAD:protein FMN transferase	2
+753	Transcription repressor NadR	2
+754	Pyridoxal 5'-phosphate synthase subunit PdxS	2
+755	Pyridoxal 5'-phosphate synthase subunit PdxT	2
+756	HTH-type transcriptional regulatory protein GabR	2
+757	Transcriptional regulator ManR	2
+758	RNA polymerase sigma factor SigA	2
+759	7-cyano-7-deazaguanine synthase	2
+760	NADPH-dependent 7-cyano-7-deazaguanine reductase	2
+761	IS3 family transposase ISSth1b	2
+762	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU	2
+763	DNA topoisomerase 1	2
+764	Competence protein ComM	2
+765	Glucosamine-6-phosphate deaminase 1	2
+766	Pyruvate kinase	2
+767	dITP/XTP pyrophosphatase	2
+768	Purine-binding protein	2
+769	PTS system sorbose-specific EIIC component	2
+770	Transcriptional regulator LytR	2
+771	putative peptidase	2
+772	Lysine--tRNA ligase	2
+773	Maltose O-acetyltransferase	2
+774	Carboxylesterase NlhH	2
+775	Molybdenum transport system permease protein ModB	2
+776	Molybdate-binding protein ModA	2
+777	Septum formation protein Maf	2
+778	ATP-dependent DNA helicase PcrA	2
+779	putative RNA methyltransferase	2
+780	putative multidrug ABC transporter ATP-binding protein YbhF	2
+781	Non-reducing end alpha-L-arabinofuranosidase BoGH43B	2
+782	Bifunctional homocysteine S-methyltransferase/5%2C10-methylenetetrahydrofolate reductase	2
+783	putative endonuclease 4	2
+784	Xylosidase/arabinosidase	2
+785	Small-conductance mechanosensitive channel	2
+786	Ribulose-phosphate 3-epimerase	2
+787	Tyrosine-protein kinase CpsD	2
+788	Tyrosine-protein phosphatase CpsB	2
+789	Oligopeptide transport ATP-binding protein OppF	2
+790	30S ribosomal protein S18	2
+791	30S ribosomal protein S6	2
+792	tRNA-cytidine(32) 2-sulfurtransferase	2
+793	Tyrosine recombinase XerS	2
+794	Ribosomal silencing factor RsfS	2
+795	DNA gyrase subunit B	2
+796	DNA gyrase subunit A	2
+797	Sodium-lithium/proton antiporter	2
+798	Thymidylate synthase 1	2
+799	Beta-carbonic anhydrase 1	2
+800	IS1182 family transposase ISMsp1	2
+801	Stage V sporulation protein AD	2
+802	D-inositol-3-phosphate glycosyltransferase	2
+803	Hypoxanthine phosphoribosyltransferase	2
+804	tRNA(Ile)-lysidine synthase	2
+805	Carbamoyl-phosphate synthase small chain	2
+806	Carbamoyl-phosphate synthase large chain	2
+807	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	2
+808	Serine/threonine-protein kinase PrkC	2
+809	Energy-coupling factor transporter ATP-binding protein EcfA2	2
+810	[FeFe] hydrogenase maturase subunit HydE	2
+811	skipping-rope	2
+812	manganese-dependent inorganic pyrophosphatase	2
+813	Glycerol-3-phosphate acyltransferase	2
+814	Processive diacylglycerol beta-glucosyltransferase	2
+815	Stage V sporulation protein T	2
+816	Sulfate/thiosulfate import ATP-binding protein CysA	2
+817	NADP-specific glutamate dehydrogenase	2
+818	Free methionine-R-sulfoxide reductase	2
+819	Cobalt-precorrin-5B C(1)-methyltransferase	2
+820	IS110 family transposase ISAzo28	2
+821	putative cobalt-factor III C(17)-methyltransferase	2
+822	MreB-like protein	2
+823	D-aminopeptidase	2
+824	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase	2
+825	Chaperone protein DnaK	2
+826	Protein GrpE	2
+827	Beta-galactosidase LacZ	2
+828	Maltose transport system permease protein MalG	2
+829	IS1634 family transposase ISSeq4	2
+830	Fructoselysine 6-kinase	2
+831	Transcription antiterminator LicT	2
+832	PTS system beta-glucoside-specific EIIBCA component	2
+833	Aryl-phospho-beta-D-glucosidase BglC	2
+834	Methionine synthase	2
+835	4-hydroxy-2-oxovalerate aldolase	2
+836	Phospho-N-acetylmuramoyl-pentapeptide-transferase	2
+837	Oligosaccharide 4-alpha-D-glucosyltransferase	2
+838	Acyl-CoA dehydrogenase%2C short-chain specific	2
+839	Caffeyl-CoA reductase-Etf complex subunit CarD	2
+840	Methionyl-tRNA formyltransferase	1
+841	Primosomal protein N'	1
+842	Phenolic acid decarboxylase subunit C	1
+843	Sodium-dependent dicarboxylate transporter SdcS	1
+844	Bacteria_large_SRP	1
+845	Bacteria_small_SRP	1
+846	Ribose import permease protein RbsC	1
+847	IS5 family transposase ISShsa1	1
+848	Beta-glucosidase A	1
+849	Evolved beta-galactosidase subunit alpha	1
+850	putative protein YqeY	1
+851	Energy-dependent translational throttle protein EttA	1
+852	Bifunctional alpha-galactosidase/sucrose kinase AgaSK	1
+853	Sucrose phosphorylase	1
+854	Putative N-acetyl-LL-diaminopimelate aminotransferase	1
+855	Sensor protein EvgS	1
+856	Glutamate 5-kinase 1	1
+857	Threonylcarbamoyl-AMP synthase	1
+858	Lactose permease	1
+859	putative methyltransferase YrrT	1
+860	Spore germination protein A1	1
+861	IS110 family transposase ISCth14	1
+862	ATP-dependent Clp protease ATP-binding subunit ClpC	1
+863	Microcin C7 self-immunity protein MccF	1
+864	Flagellin	1
+865	tRNA (guanine-N(7)-)-methyltransferase	1
+866	Long-chain-alcohol dehydrogenase 1	1
+867	D-serine dehydratase	1
+868	Peptide methionine sulfoxide reductase msrA/msrB	1
+869	Nitrilase	1
+870	Lipopolysaccharide assembly protein B	1
+871	5-dehydro-2-deoxygluconokinase	1
+872	IS256 family transposase ISDku1	1
+873	Tryptophan--tRNA ligase 2	1
+874	Glycosyltransferase Gtf1	1
+875	Putative glycosyltransferase EpsH	1
+876	Transcriptional regulatory protein tctD	1
+877	putative HTH-type transcriptional regulator YurK	1
+878	Transcriptional regulatory protein BasR	1
+879	Mannose-6-phosphate isomerase ManA	1
+880	5%2C10-methylenetetrahydrofolate reductase	1
+881	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI	1
+882	IS630 family transposase ISDds8	1
+883	Reverse rubrerythrin-1	1
+884	Multiple antibiotic resistance protein MarR	1
+885	Putative esterase	1
+886	Nicotinamidase/pyrazinamidase	1
+887	Glucuronide carrier protein	1
+888	PTS system lactose-specific EIIA component	1
+889	PTS system lactose-specific EIICB component	1
+890	Ribosomal RNA small subunit methyltransferase A	1
+891	Anthranilate synthase component 1	1
+892	Zinc transport protein ZntB	1
+893	Exo-beta-D-glucosaminidase	1
+894	PTS system galactitol-specific EIIC component	1
+895	Glycerol dehydrogenase	1
+896	Branched-chain-amino-acid aminotransferase	1
+897	Mannosylglycerate hydrolase	1
+898	D-xylose-binding periplasmic protein	1
+899	Rubredoxin	1
+900	Cardiolipin synthase	1
+901	Heme response regulator HssR	1
+902	Alkaline phosphatase synthesis transcriptional regulatory protein SphR	1
+903	Septum site-determining protein MinD	1
+904	PTS system mannose-specific EIIAB component	1
+905	PTS system sorbose-specific EIIB component	1
+906	L-galactonate-5-dehydrogenase	1
+907	Glutamate synthase [NADPH] small chain	1
+908	HTH-type transcriptional regulator SinR	1
+909	Beta-phosphoglucomutase	1
+910	Sulfur carrier protein ThiS	1
+911	DNA repair protein RecN	1
+912	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA	1
+913	Nicotinate dehydrogenase small FeS subunit	1
+914	3-isopropylmalate dehydratase large subunit	1
+915	IS110 family transposase ISFnu4	1
+916	D-alanine--poly(phosphoribitol) ligase subunit 2	1
+917	Tyrocidine synthase 1	1
+918	3-phosphoshikimate 1-carboxyvinyltransferase 1	1
+919	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase	1
+920	Single-stranded DNA-binding protein A	1
+921	Putative glycosyltransferase EpsF	1
+922	RNA polymerase sigma factor CarQ	1
+923	Inner membrane protein YqiK	1
+924	Hydroxyacylglutathione hydrolase	1
+925	Alginate biosynthesis protein AlgA	1
+926	putative type I restriction enzymeP M protein	1
+927	Tryptophan-rich sensory protein	1
+928	IS110 family transposase ISCla1	1
+929	Arabinose metabolism transcriptional repressor	1
+930	3-alpha-hydroxycholanate dehydrogenase (NADP(+))	1
+931	Protein McrC	1
+932	Multidrug resistance protein MdtA	1
+933	IS66 family transposase ISBaps1	1
+934	putative cystine transporter YijE	1
+935	Putative mannose-6-phosphate isomerase YvyI	1
+936	putative heme-iron transport system permease protein IsdF	1
+937	Transcriptional regulatory protein QseB	1
+938	Signal transduction histidine-protein kinase ArlS	1
+939	IS3 family transposase ISStin5	1
+940	putative ABC transporter permease YknZ	1
+941	Putative efflux system component YknX	1
+942	Osmoregulated proline transporter OpuE	1
+943	ATP synthase gamma chain%2C sodium ion specific	1
+944	ATP synthase subunit beta%2C sodium ion specific	1
+945	Adenine deaminase	1
+946	Putative mycofactocin radical SAM maturase MftC	1
+947	NADP-dependent isopropanol dehydrogenase	1
+948	IS3 family transposase IS981	1
+949	Trehalose transport system permease protein SugB	1
+950	Transcriptional regulatory protein BaeR	1
+951	DNA-3-methyladenine glycosylase 1	1
+952	L-rhamnose mutarotase	1
+953	Rhamnulokinase	1
+954	Beta-galactosidase BglY	1
+955	3-oxoadipate enol-lactonase 2	1
+956	putative transporter	1
+957	Glucokinase	1
+958	Penicillin-binding protein 4	1
+959	Pyridinium-3%2C5-biscarboxylic acid mononucleotide sulfurtransferase	1
+960	Ferredoxin--NADP reductase	1
+961	hydrogenase nickel incorporation protein HypA	1
+962	IS3 family transposase ISStrsp1	1
+963	Flagellin B	1
+964	Multidrug resistance ABC transporter ATP-binding and permease protein	1
+965	Putative alkyl/aryl-sulfatase YjcS	1
+966	Glycerol-3-phosphate cytidylyltransferase	1
+967	Response regulator protein VraR	1
+968	[Citrate [pro-3S]-lyase] ligase	1
+969	Antitoxin	1
+970	High-affinity branched-chain amino acid transport ATP-binding protein LivF	1
+971	Lipopolysaccharide export system ATP-binding protein LptB	1
+972	High-affinity branched-chain amino acid transport system permease protein LivH	1
+973	Alkaline phosphatase synthesis sensor protein PhoR	1
+974	Phosphate-binding protein PstS 2	1
+975	SkfA peptide export ATP-binding protein SkfE	1
+976	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG	1
+977	IS3 family transposase ISClsp1	1
+978	Chromate transport protein	1
+979	Beta-glucosidase BoGH3B	1
+980	Metal reductase	1
+981	putative symporter YjmB	1
+982	ATP-dependent RNA helicase DbpA	1
+983	S-ribosylhomocysteine lyase	1
+984	PtsGHI operon antiterminator	1
+985	Clostridiales-3	1
+986	Glutamate-pyruvate aminotransferase AlaA	1
+987	N-acetylmannosamine kinase	1
+988	Dephospho-CoA kinase	1
+989	Cell division protein FtsA	1
+990	2-dehydropantoate 2-reductase	1
+991	Copper-sensing transcriptional repressor RicR	1
+992	putative copper-transporting ATPase PacS	1
+993	Cadmium-transporting ATPase	1
+994	Fructose import ATP-binding protein FruK	1
+995	ABC transporter periplasmic-binding protein YtfQ	1
+996	Ornithine carbamoyltransferase	1
+997	Protein hit	1
+998	Rhomboid protease GluP	1
+999	IS256 family transposase ISCth4	1
+1000	IS110 family transposase ISSso6	1
+1001	RT-18	1
+1002	Methylthioribose kinase	1
+1003	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase	1
+1004	putative protease YdcP	1
+1005	Sugar fermentation stimulation protein A	1
+1006	Pyrimidine-specific ribonucleoside hydrolase RihA	1
+1007	PreQ1	1
+1008	putative L-ascorbate-6-phosphate lactonase UlaG	1
+1009	IS1595 family transposase ISSag10	1
+1010	Anaerobic sulfatase-maturating enzyme	1
+1011	Carnitine transport permease protein OpuCB	1
+1012	Extracellular exo-alpha-L-arabinofuranosidase	1
+1013	N-acetylgalactosamine-N%2CN'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase	1
+1014	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH	1
+1015	Galactokinase	1
+1016	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase	1
+1017	tRNA (adenine(37)-N6)-methyltransferase	1
+1018	Phosphatidylglycerol lysyltransferase	1
+1019	Glutathione-binding protein GsiB	1
+1020	Glutathione peroxidase BsaA	1
+1021	Acetyltransferase YpeA	1
+1022	L-arabinose isomerase	1
+1023	Spore germination protein B1	1
+1024	ykoK	1
+1025	Putative KHG/KDPG aldolase	1
+1026	Polar-differentiation response regulator DivK	1
+1027	Endoribonuclease MazF	1
+1028	Inner membrane transport protein YdiM	1
+1029	HTH-type transcriptional regulator GltC	1
+1030	NADH oxidase	1
+1031	Nicotinate phosphoribosyltransferase pncB2	1
+1032	Fluoroquinolones export ATP-binding protein	1
+1033	dTDP-4-amino-4%2C6-dideoxygalactose transaminase	1
+1034	N5-carboxyaminoimidazole ribonucleotide synthase	1
+1035	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE	1
+1036	CRISPR-associated endoribonuclease Cas2	1
+1037	Putative TrmH family tRNA/rRNA methyltransferase	1
+1038	Mini-ribonuclease 3	1
+1039	Cysteine--tRNA ligase	1
+1040	Serine acetyltransferase	1
+1041	1%2C4-alpha-glucan branching enzyme GlgB	1
+1042	ISNCY family transposase ISHco1	1
+1043	Bicarbonate transport ATP-binding protein CmpD	1
+1044	Putative aliphatic sulfonates transport permease protein SsuC	1
+1045	IS200/IS605 family transposase ISSsu4	1
+1046	Cytokinin riboside 5'-monophosphate phosphoribohydrolase	1
+1047	Levodione reductase	1
+1048	ATP-dependent zinc metalloprotease FtsH 4	1
+1049	IS110 family transposase ISSpi3	1
+1050	dTDP-4-dehydrorhamnose reductase	1
+1051	dTDP-glucose 4%2C6-dehydratase 2	1
+1052	Glucose-1-phosphate thymidylyltransferase 1	1
+1053	Arginine transport system permease protein ArtQ	1
+1054	Protein TsgA	1
+1055	Acid shock protein	1
+1056	Serine protease AprX	1
+1057	Putative phosphoserine phosphatase 2	1
+1058	Putative N-acetylmannosamine-6-phosphate 2-epimerase	1
+1059	Diflavin flavoprotein A 1	1
+1060	Beta-galactosidase bgaB	1
+1061	N-carbamoyl-D-amino acid hydrolase	1
+1062	Glutathione import ATP-binding protein GsiA	1
+1063	putative 6-phospho-beta-glucosidase	1
+1064	ABC transporter ATP-binding protein YtrE	1
+1065	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase	1
+1066	Neopullulanase 1	1
+1067	ATP-dependent RNA helicase DeaD	1
+1068	IS3 family transposase ISClte1	1
+1069	Putative anti-sigma factor antagonist BtrV	1
+1070	Uric acid permease PucK	1
+1071	Chromosome-partitioning protein Spo0J	1
+1072	Teichuronic acid biosynthesis protein TuaB	1
+1073	dTDP-4-amino-4%2C6-dideoxy-D-glucose transaminase	1
+1074	Phosphoribosylglycinamide formyltransferase 2	1
+1075	Alanine dehydrogenase	1
+1076	HTH-XRE	1
+1077	Flavoredoxin	1
+1078	2-amino-4-deoxychorismate dehydrogenase	1
+1079	putative oxidoreductase/MSMEI_2347	1
+1080	Hydroperoxy fatty acid reductase gpx1	1
+1081	IS4 family transposase ISWpi18	1
+1082	CdaA regulatory protein CdaR	1
+1083	Polyol:NADP oxidoreductase	1
+1084	High-affinity zinc uptake system binding-protein ZnuA	1
+1085	High-affinity zinc uptake system ATP-binding protein ZnuC	1
+1086	High-affinity zinc uptake system membrane protein ZnuB	1
+1087	Carboxypeptidase G2	1
+1088	V-type proton ATPase subunit E	1
+1089	V-type sodium ATPase subunit K	1
+1090	tRNA (cytidine(34)-2'-O)-methyltransferase	1
+1091	P-protein	1
+1092	Methionine import ATP-binding protein MetN	1
+1093	4-hydroxymandelate oxidase	1
+1094	PTS system N-acetylglucosamine-specific EIICBA component	1
+1095	Calcium-transporting ATPase	1
+1096	Aspartate carbamoyltransferase	1
+1097	RNaseP_bact_a	1
+1098	UDP-glucose 6-dehydrogenase	1
+1099	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase	1
+1100	Recombination protein RecR	1
+1101	Pyridoxine kinase	1
+1102	Stage IV sporulation protein A	1
+1103	L-rhamnose isomerase	1
+1104	putative cation-transporting ATPase E	1
+1105	ATP-dependent DNA helicase RecQ	1
+1106	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU	1
+1107	Diacylglycerol kinase	1
+1108	Homocysteine S-methyltransferase	1
+1109	Multidrug-efflux transporter 1 regulator	1
+1110	GTP 3'%2C8-cyclase	1
+1111	Nitrogen regulatory PII-like protein	1
+1112	tRNA 2-thiocytidine biosynthesis protein TtcA	1
+1113	Ribosome-recycling factor	1
+1114	Isoprenyl transferase	1
+1115	Transketolase 1	1
+1116	Transaldolase	1
+1117	Formate--tetrahydrofolate ligase	1
+1118	Putative competence-damage inducible protein	1
+1119	RNA polymerase sigma-G factor	1
+1120	RNA polymerase sigma-E factor	1
+1121	Sensor histidine kinase ResE	1
+1122	Nucleoid occlusion factor SlmA	1
+1123	Ribonuclease Z	1
+1124	tRNA N6-adenosine threonylcarbamoyltransferase	1
+1125	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	1
+1126	Beta-glucosidase	1
+1127	Putative glycoside/cation symporter YagG	1
+1128	Glycogen operon protein GlgX	1
+1129	HMP-PP phosphatase	1
+1130	putative formate transporter 1	1
+1131	Guanine/hypoxanthine permease PbuG	1
+1132	Enoyl-[acyl-carrier-protein] reductase [NADH]	1
+1133	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase	1
+1134	Multifunctional alkaline phosphatase superfamily protein	1
+1135	L-threonine ammonia-lyase	1
+1136	Signal recognition particle receptor FtsY	1
+1137	Molybdenum cofactor guanylyltransferase	1
+1138	Exo-poly-alpha-D-galacturonosidase	1
+1139	L(+)-tartrate dehydratase subunit beta	1
+1140	ABC transporter ATP-binding protein YxdL	1
+1141	Transketolase 2	1
+1142	Pyrophosphatase PpaX	1
+1143	N5-carboxyaminoimidazole ribonucleotide mutase	1
+1144	bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia	1
+1145	Acid sugar phosphatase	1
+1146	Inner membrane metabolite transport protein YhjE	1
+1147	3'%2C5'-cyclic adenosine monophosphate phosphodiesterase CpdA	1
+1148	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase	1
+1149	Intracellular exo-alpha-L-arabinofuranosidase 2	1
+1150	Putative phenylalanine aminotransferase	1
+1151	putative histidine-binding protein	1
+1152	Flavo-diiron protein FprA1	1
+1153	Protein-ADP-ribose hydrolase	1
+1154	Coenzyme F420:L-glutamate ligase	1
+1155	PTS system trehalose-specific EIIBC component	1
+1156	Leucine--tRNA ligase	1
+1157	IS4 family transposase ISPa45	1
+1158	Aldo-keto reductase YhdN	1
+1159	Sulfofructose kinase	1
+1160	ISL3 family transposase ISCsa1	1
+1161	Signal peptidase IB	1
+1162	Fructosamine kinase FrlD	1
+1163	Fructosamine deglycase FrlB	1
+1164	Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB	1
+1165	IS110 family transposase ISGka2	1
+1166	Methionine-binding lipoprotein MetQ	1
+1167	Methionine import ATP-binding protein MetN 2	1
+1168	ISL3 family transposase ISAar34	1
+1169	IS5 family transposase ISPsp6	1
+1170	Phosphoribosylformylglycinamidine synthase	1
+1171	N-alpha-acetyl-L-2%2C4-diaminobutyric acid deacetylase	1
+1172	Alpha-maltose-1-phosphate synthase	1
+1173	Phosphate transport system permease protein PstA	1
+1174	Cytidine deaminase	1
+1175	Uridine phosphorylase	1
+1176	ATP synthase subunit c	1
+1177	ATP synthase subunit a	1
+1178	4-aminobutyrate aminotransferase PuuE	1
+1179	Cyclopropane-fatty-acyl-phospholipid synthase	1
+1180	Phosphate propanoyltransferase	1
+1181	Cryptic beta-glucoside bgl operon antiterminator	1
+1182	PTS system glucoside-specific EIICBA component	1
+1183	Mycothiol acetyltransferase	1
+1184	L-ribulose-5-phosphate 4-epimerase SgbE	1
+1185	Alpha-galactosidase A	1
+1186	IS4 family transposase ISGur1	1
+1187	Epoxyqueuosine reductase QueH	1
+1188	Outer membrane protein assembly factor BamB	1
+1189	ISL3 family transposase ISTesp2	1
+1190	Beta-hexosaminidase	1
+1191	putative phosphotransferase enzyme IIB component	1
+1192	putative fructoselysine utilization operon transcriptional repressor	1
+1193	ATP-dependent DNA helicase Rep	1
+1194	ISL3 family transposase IS469	1
+1195	Pyridoxine/pyridoxal/pyridoxamine kinase	1
+1196	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	1
+1197	Phytol kinase	1
+1198	Putative electron transport protein YccM	1
+1199	Transcriptional regulatory protein TcrA	1
+1200	RNA polymerase sigma factor RpoD	1
+1201	Imidazolonepropionase	1
+1202	4-hydroxyphenylacetate decarboxylase activating enzyme	1
+1203	Peptide chain release factor 3	1
+1204	IS4 family transposase ISL5	1
+1205	L-ribulose-5-phosphate 4-epimerase	1
+1206	PTS system mannose-specific EIIBCA component	1
+1207	putative licABCH operon regulator	1
+1208	Ktr system potassium uptake protein B	1
+1209	IS3 family transposase ISPa31	1
+1210	IS3 family transposase IS1240	1
+1211	IS30 family transposase ISSag9	1
+1212	Phosphate regulon transcriptional regulatory protein PhoB	1
+1213	Transcriptional regulator KdgR	1
+1214	ECF RNA polymerase sigma factor SigH	1
+1215	Inulin fructotransferase [DFA-I-forming]	1
+1216	Inner membrane protein YccF	1
+1217	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	1
+1218	tRNA (guanine-N(1)-)-methyltransferase	1
+1219	Ribosome maturation factor RimM	1
+1220	N-acetylmuramic acid 6-phosphate phosphatase	1
+1221	HTH-type transcriptional regulator LutR	1
+1222	Holin-like protein CidB	1
+1223	Antiholin-like protein LrgA	1
+1224	Bifunctional protein FolD protein	1
+1225	Methenyltetrahydrofolate cyclohydrolase	1
+1226	Diaminopimelate epimerase	1
+1227	ATP-dependent Clp protease proteolytic subunit	1
+1228	Signal peptidase I S	1
+1229	6%2C7-dimethyl-8-ribityllumazine synthase	1
+1230	Riboflavin biosynthesis protein RibBA	1
+1231	Riboflavin synthase	1
+1232	O-antigen biosynthesis glycosyltransferase WbnK	1
+1233	Unsaturated rhamnogalacturonyl hydrolase YesR	1
+1234	IS110 family transposase ISCth6	1
+1235	Stage II sporulation protein E	1
+1236	FMN reductase [NAD(P)H]	1
+1237	Deaminated glutathione amidase	1
+1238	(S)-2-haloacid dehalogenase 4A	1
+1239	IS256 family transposase ISCcl1	1
+1240	IS91 family transposase ISMbu9	1
+1241	Phospho-2-dehydro-3-deoxyheptonate aldolase%2C Tyr-sensitive	1
+1242	dTDP-3-amino-3%2C4%2C6-trideoxy-alpha-D-glucopyranose	1
+1243	Aspartate--ammonia ligase	1
+1244	PTS system mannitol-specific EIICBA component	1
+1245	3-hexulose-6-phosphate isomerase	1
+1246	3-hexulose-6-phosphate synthase	1
+1247	putative HTH-type transcriptional regulator YdjF	1
+1248	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	1
+1249	2-oxoglutarate carboxylase small subunit	1
+1250	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	1
+1251	Cinnamate reductase	1
+1252	Gluconate 5-dehydrogenase	1
+1253	IS481 family transposase ISSsu8	1
+1254	Valine--tRNA ligase	1
+1255	IS21 family transposase ISCbo2	1
+1256	Vegetative protein 296	1
+1257	HTH-type transcriptional regulator GltR	1
+1258	Oligopeptide transport system permease protein OppB	1
+1259	D-galactosyl-beta-1->4-L-rhamnose phosphorylase	1
+1260	putative protein YloA	1
+1261	Methyl-accepting chemotaxis protein McpB	1
+1262	Monoacylglycerol lipase	1
+1263	Glucitol operon repressor	1
+1264	DEAD-box ATP-dependent RNA helicase CshA	1
+1265	Carboxypeptidase 1	1
+1266	Diadenosine hexaphosphate hydrolase	1
+1267	Penicillin-binding protein A	1
+1268	Putative lipid II flippase FtsW	1
+1269	IS30 family transposase ISStin4	1
+1270	Sulfate adenylyltransferase subunit 1	1
+1271	L-cysteate sulfo-lyase	1
+1272	Anaerobic sulfite reductase subunit C	1
+1273	Maltodextrin phosphorylase	1
+1274	Stage 0 sporulation protein A	1
+1275	IS200/IS605 family transposase ISBth17	1
+1276	Putative aminoacrylate hydrolase RutD	1
+1277	Thymidylate kinase	1
+1278	Heparin-sulfate lyase	1
+1279	Cobalt-factor III methyltransferase	1
+1280	Cobalt-precorrin-5A hydrolase	1
+1281	Cobalt-precorrin-4 C(11)-methyltransferase	1
+1282	Type III pantothenate kinase	1
+1283	Coenzyme A biosynthesis bifunctional protein CoaBC	1
+1284	Putative conjugal transfer protein	1
+1285	Modification methylase FokI	1
+1286	L-asparaginase 1	1
+1287	p-aminobenzoyl-glutamate hydrolase subunit B	1
+1288	Stage 0 sporulation protein J	1
+1289	IS3 family transposase ISCpe6	1
+1290	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR	1
+1291	HTH-type transcriptional repressor GlcR	1
+1292	Nuclease SbcCD subunit D	1
+1293	Serine-protein kinase RsbW	1
+1294	Arsenate reductase	1
+1295	Arsenical-resistance protein Acr3	1
+1296	Arsenical resistance operon repressor	1
+1297	Fumarate reductase iron-sulfur subunit	1
+1298	nicotinate-nucleotide adenylyltransferase	1
+1299	RNA-binding protein YhbY	1
+1300	GTPase Obg	1
+1301	50S ribosomal protein L27	1
+1302	Allantoate amidohydrolase	1
+1303	FMN-dependent NADH-azoreductase	1
+1304	IS1182 family transposase ISClsp3	1
+1305	Glycine--tRNA ligase	1
+1306	IS4 family transposase ISMae7	1
+1307	HTH-type transcriptional regulator Xre	1
+1308	Shikimate kinase 2	1
+1309	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2	1
+1310	IS110 family transposase ISBth166	1
+1311	mRNA interferase toxin YafQ	1
+1312	manganese efflux pump MntP	1
+1313	putative methyltransferase YcgJ	1
+1314	Ribosomal RNA small subunit methyltransferase J	1
+1315	Phosphoserine phosphatase ThrH	1
+1316	(R)-phenyllactyl-CoA dehydratase alpha subunit	1
+1317	dCTP deaminase	1
+1318	Pyridinium-3%2C5-biscarboxylic acid mononucleotide synthase	1
+1319	Pyridinium-3%2C5-bisthiocarboxylic acid mononucleotide nickel insertion protein	1
+1320	Putative ion-transport protein YfeO	1
+1321	IS5 family transposase ISCc1	1
+1322	ABC transporter ATP-binding protein YtrB	1
+1323	Energy-coupling factor transporter ATP-binding protein EcfA1	1
+1324	Deoxyuridine 5'-triphosphate nucleotidohydrolase	1
+1325	Mannitol-1-phosphate 5-dehydrogenase	1
+1326	Oxidoreductase YdhF	1
+1327	DNA base-flipping protein	1
+1328	Methylglyoxal synthase	1
+1329	UDP-2-acetamido-2%2C6-beta-L-arabino-hexul-4-ose reductase	1
+1330	IS66 family transposase ISCde1	1
+1331	Arabinogalactan endo-beta-1%2C4-galactanase	1
+1332	Glutaredoxin arsenate reductase	1
+1333	IS982 family transposase ISRmsp1	1
+1334	Trehalose import ATP-binding protein SugC	1
+1335	N-carbamoylsarcosine amidase	1
+1336	TelA-like protein	1
+1337	RNA polymerase sigma-54 factor	1
+1338	Dipicolinate synthase subunit B	1
+1339	Aspartokinase 3	1
+1340	phosphatase YcdX	1
+1341	Trk system potassium uptake protein TrkA	1
+1342	Trk system potassium uptake protein TrkG	1
+1343	Glycogen biosynthesis protein GlgD	1
+1344	General stress protein CTC	1
+1345	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase	1
+1346	Modification methylase VspI	1
+1347	Coenzyme A disulfide reductase	1
+1348	IS1634 family transposase ISCsa8	1
+1349	Biotin transporter BioY2	1
+1350	Riboflavin biosynthesis protein	1
+1351	Carboxynorspermidine/carboxyspermidine decarboxylase	1
+1352	30S ribosomal protein S21	1
+1353	5-methylthioadenosine/S-adenosylhomocysteine deaminase	1
+1354	Copper-exporting P-type ATPase	1
+1355	Beta-galactosidase large subunit	1
+1356	Sensory transduction protein regX3	1
+1357	Uracil permease	1
+1358	Malate-2H(+)/Na(+)-lactate antiporter	1
+1359	2-iminobutanoate/2-iminopropanoate deaminase	1
+1360	Endo-1%2C4-beta-xylanase/feruloyl esterase	1
+1361	Major cardiolipin synthase ClsA	1
+1362	Hydroxyacylglutathione hydrolase GloC	1
+1363	Ribonuclease BN	1
+1364	IS110 family transposase ISBth13	1
+1365	Amylosucrase	1
+1366	Nitric oxide reductase	1
+1367	Hemin transport system permease protein HmuU	1
+1368	Cobalamin	1
+1369	Phosphoribosyl-AMP cyclohydrolase	1
+1370	Histidine biosynthesis bifunctional protein HisB	1
+1371	Histidinol dehydrogenase	1
+1372	ATP phosphoribosyltransferase	1
+1373	ATP phosphoribosyltransferase regulatory subunit	1
+1374	Histone3	1
+1375	IS3 family transposase ISBmu11	1
+1376	Acetyl-CoA acetyltransferase	1
+1377	3-hydroxybutyryl-CoA dehydrogenase	1
+1378	Thymidylate synthase ThyX	1
+1379	tetracycline resistance ribosomal protection protein Tet(O)	1
+1380	Tungstate uptake system ATP-binding protein TupC	1
+1381	L-arginine-specific L-amino acid ligase	1
+1382	Putative ribosomal N-acetyltransferase YdaF	1
+1383	CRISPR-associated endonuclease Cas9	1
+1384	2%2C4-diaminopentanoate dehydrogenase	1
+1385	Cobyrinate a%2Cc-diamide synthase	1
+1386	Putative transposon Tn552 DNA-invertase bin3	1
+1387	putative ABC transporter ATP-binding protein NosF	1
+1388	Response regulator MprA	1
+1389	IS5 family transposase ISRin1	1
+1390	4Fe-4S ferredoxin FdxA	1
+1391	HTH-type transcriptional regulator GntR	1
+1392	Solute-binding protein	1
+1393	Methanol dehydrogenase activator	1
+1394	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase	1
+1395	5-keto-D-gluconate 5-reductase	1
+1396	High molecular weight rubredoxin	1
+1397	Alcohol dehydrogenase	1
+1398	GA-cis	1
+1399	putative response regulatory protein	1
+1400	Anti-sigma-V factor RsiV	1
+1401	RNA polymerase sigma factor SigV	1
+1402	L-fucose isomerase	1
+1403	Ribosomal RNA small subunit methyltransferase G	1
+1404	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	1
+1405	Xanthine phosphoribosyltransferase	1
+1406	Acetylxylan esterase	1
+1407	Ribonuclease G	1
+1408	Putative lipid kinase YtlR	1
+1409	Riboflavin transport system permease protein RibX	1
+1410	Formylaminopyrimidine-binding protein	1
+1411	Purine	1
+1412	Mannose-1-phosphate guanylyltransferase RfbM	1
+1413	putative mannose-6-phosphate isomerase GmuF	1
+1414	Nickel transport system permease protein NikB	1
+1415	putative D%2CD-dipeptide transport system permease protein DdpC	1

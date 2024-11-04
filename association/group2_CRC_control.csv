@@ -1,0 +1,22 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+25,Phosphotransferase system (PTS),map02060,8.849027532278321e-37,353,2.176685523756089,Environmental Information Processing,Membrane transport,3.3183853246043707e-34
+148,Fructose and mannose metabolism,map00051,4.1951409186484406e-22,474,1.6343163808559726,Metabolism,Carbohydrate metabolism,1.5731778444931653e-19
+135,Lipopolysaccharide biosynthesis,map00540,2.4073513258667145e-17,15,0.19406378714215153,Metabolism,Glycan biosynthesis and metabolism,9.027567472000179e-15
+113,Microbial metabolism in diverse environments,map01120,1.3324796394556769e-15,1541,1.2490824090659034,Other,Other,4.996798647958788e-13
+109,Biosynthesis of amino acids,map01230,4.8385971110703333e-14,1268,1.258266142714346,Other,Other,1.814473916651375e-11
+107,C5-Branched dibasic acid metabolism,map00660,7.643580154697108e-14,97,2.4116991929586518,Metabolism,Carbohydrate metabolism,2.8663425580114153e-11
+318,Pyrimidine metabolism,map00240,4.5499700572710064e-11,283,0.6861098157629993,Metabolism,Nucleotide metabolism,1.7062387714766273e-08
+117,"Valine, leucine and isoleucine biosynthesis",map00290,5.456576647511242e-11,139,1.8621202838615174,Metabolism,Amino acid metabolism,2.0462162428167158e-08
+39,Photosynthesis - antenna proteins,map00196,5.769956051308002e-10,0,0.0,Metabolism,Energy metabolism,2.1637335192405008e-07
+301,Glucosinolate biosynthesis,map00966,1.0995657713763162e-09,45,2.9457202586796396,Metabolism,Biosynthesis of other secondary metabolites,4.1233716426611857e-07
+288,2-Oxocarboxylic acid metabolism,map01210,1.3346852246867219e-09,245,1.5235921961378143,Other,Other,5.005069592575207e-07
+144,Ribosome,map03010,1.3444668809755156e-09,279,0.7039438831465549,Genetic Information Processing,Translation,5.041750803658184e-07
+166,Lipoic acid metabolism,map00785,1.427307779624339e-07,10,0.26087731228390776,Metabolism,Metabolism of cofactors and vitamins,5.352404173591271e-05
+353,MicroRNAs in cancer,map05206,1.938604760287209e-06,9,0.27133547331514263,Human Diseases,Cancer: overview,0.0007269767851077033
+174,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,2.652688506361638e-06,328,1.3186159473856434,Metabolism,Amino acid metabolism,0.0009947581898856143
+229,Nucleotide metabolism,map01232,3.6304271835805115e-06,329,0.7774405606828497,Other,Other,0.0013614101938426919
+139,Biosynthesis of secondary metabolites,map01110,1.0825927548890047e-05,2450,1.1031633358019273,Other,Other,0.004059722830833767
+172,Longevity regulating pathway - worm,map04212,1.4711960223062525e-05,13,0.35434678691352434,Organismal Systems,Aging,0.005516985083648447
+355,beta-Lactam resistance,map01501,2.6110578732544644e-05,101,0.669184381992819,Human Diseases,Drug resistance: antimicrobial,0.009791467024704242
+289,Polyketide sugar unit biosynthesis,map00523,3.9787000028351335e-05,90,1.6000243110360188,Metabolism,Metabolism of terpenoids and polyketides,0.01492012501063175
+264,Bacterial secretion system,map03070,0.0001272208438135184,122,0.7133640050732641,Environmental Information Processing,Membrane transport,0.0477078164300694

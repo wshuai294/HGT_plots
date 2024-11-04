@@ -1,0 +1,343 @@
+,Proportion,Order,Group,level
+0,0.4808757491533322,Bacteroidota,Inter,1
+1,0.5191242508466678,Bacteroidota,Intra,1
+2,0.41595195186917017,Firmicutes_A,Inter,1
+3,0.5840480481308299,Firmicutes_A,Intra,1
+4,0.9444234360621716,Firmicutes_C,Inter,1
+5,0.05557656393782838,Firmicutes_C,Intra,1
+6,0.8895597532619766,Proteobacteria,Inter,1
+7,0.11044024673802341,Proteobacteria,Intra,1
+8,0.8483335268842178,Firmicutes,Inter,1
+9,0.15166647311578213,Firmicutes,Intra,1
+10,0.8478459536349633,Actinobacteriota,Inter,1
+11,0.15215404636503665,Actinobacteriota,Intra,1
+12,0.9778964484099144,Desulfobacterota_A,Inter,1
+13,0.02210355159008559,Desulfobacterota_A,Intra,1
+14,0.8951879238960578,Verrucomicrobiota,Inter,1
+15,0.10481207610394214,Verrucomicrobiota,Intra,1
+16,0.9661710923835268,Fusobacteriota,Inter,1
+17,0.033828907616473204,Fusobacteriota,Intra,1
+18,0.9793577981651376,Cyanobacteria,Inter,1
+19,0.020642201834862386,Cyanobacteria,Intra,1
+20,0.9574068641830449,Euryarchaeota,Inter,1
+21,0.04259313581695512,Euryarchaeota,Intra,1
+22,0.9883773928896992,Firmicutes_B,Inter,1
+23,0.01162260711030082,Firmicutes_B,Intra,1
+24,0.9692667446133288,Synergistota,Inter,1
+25,0.03073325538667112,Synergistota,Intra,1
+26,0.9842229818564291,Campylobacterota,Inter,1
+27,0.015777018143570864,Campylobacterota,Intra,1
+28,0.9848197343453511,Spirochaetota,Inter,1
+29,0.015180265654648957,Spirochaetota,Intra,1
+30,0.967741935483871,Thermoplasmatota,Inter,1
+31,0.03225806451612903,Thermoplasmatota,Intra,1
+32,1.0,Firmicutes_I,Inter,1
+33,0.0,Firmicutes_I,Intra,1
+34,1.0,Eremiobacterota,Inter,1
+35,0.0,Eremiobacterota,Intra,1
+36,0.9700374531835206,Patescibacteria,Inter,1
+37,0.0299625468164794,Patescibacteria,Intra,1
+38,0.92,Elusimicrobiota,Inter,1
+39,0.08,Elusimicrobiota,Intra,1
+40,1.0,Myxococcota,Inter,1
+41,0.0,Myxococcota,Intra,1
+42,1.0,Firmicutes_G,Inter,1
+43,0.0,Firmicutes_G,Intra,1
+44,1.0,Fibrobacterota,Inter,1
+45,0.0,Fibrobacterota,Intra,1
+46,0.4808757491533322,Bacteroidia,Inter,2
+47,0.5191242508466678,Bacteroidia,Intra,2
+48,0.4159878837925775,Clostridia,Inter,2
+49,0.5840121162074224,Clostridia,Intra,2
+50,0.9444234360621716,Negativicutes,Inter,2
+51,0.05557656393782838,Negativicutes,Intra,2
+52,0.8889537911384009,Gammaproteobacteria,Inter,2
+53,0.11104620886159915,Gammaproteobacteria,Intra,2
+54,0.8483335268842178,Bacilli,Inter,2
+55,0.15166647311578213,Bacilli,Intra,2
+56,0.8968128836083112,Actinobacteria,Inter,2
+57,0.10318711639168872,Actinobacteria,Intra,2
+58,0.9778964484099144,Desulfovibrionia,Inter,2
+59,0.02210355159008559,Desulfovibrionia,Intra,2
+60,0.896443400119592,Verrucomicrobiae,Inter,2
+61,0.10355659988040795,Verrucomicrobiae,Intra,2
+62,0.9661710923835268,Fusobacteriia,Inter,2
+63,0.033828907616473204,Fusobacteriia,Intra,2
+64,0.828012219748356,Coriobacteriia,Inter,2
+65,0.17198778025164396,Coriobacteriia,Intra,2
+66,0.9793577981651376,Vampirovibrionia,Inter,2
+67,0.020642201834862386,Vampirovibrionia,Intra,2
+68,0.9574068641830449,Methanobacteria,Inter,2
+69,0.04259313581695512,Methanobacteria,Intra,2
+70,0.9369668555056326,Alphaproteobacteria,Inter,2
+71,0.0630331444943674,Alphaproteobacteria,Intra,2
+72,0.9877492193129954,Peptococcia,Inter,2
+73,0.012250780687004564,Peptococcia,Intra,2
+74,0.9692667446133288,Synergistia,Inter,2
+75,0.03073325538667112,Synergistia,Intra,2
+76,0.8751908396946565,Lentisphaeria,Inter,2
+77,0.12480916030534352,Lentisphaeria,Intra,2
+78,0.9842229818564291,Campylobacteria,Inter,2
+79,0.015777018143570864,Campylobacteria,Intra,2
+80,0.9749430523917996,Spirochaetia,Inter,2
+81,0.025056947608200455,Spirochaetia,Intra,2
+82,0.967741935483871,Thermoplasmata,Inter,2
+83,0.03225806451612903,Thermoplasmata,Intra,2
+84,0.9971550497866287,Brachyspirae,Inter,2
+85,0.002844950213371266,Brachyspirae,Intra,2
+86,1.0,Mahellia,Inter,2
+87,0.0,Mahellia,Intra,2
+88,1.0,Dehalobacteriia,Inter,2
+89,0.0,Dehalobacteriia,Intra,2
+90,1.0,Bacilli_A,Inter,2
+91,0.0,Bacilli_A,Intra,2
+92,1.0,UBP9,Inter,2
+93,0.0,UBP9,Intra,2
+94,1.0,Thermoanaerobacteria,Inter,2
+95,0.0,Thermoanaerobacteria,Intra,2
+96,0.9700374531835206,Saccharimonadia,Inter,2
+97,0.0299625468164794,Saccharimonadia,Intra,2
+98,1.0,Kiritimatiellae,Inter,2
+99,0.0,Kiritimatiellae,Intra,2
+100,0.92,Elusimicrobia,Inter,2
+101,0.08,Elusimicrobia,Intra,2
+102,1.0,Bradimonadia,Inter,2
+103,0.0,Bradimonadia,Intra,2
+104,1.0,SHA-98,Inter,2
+105,0.0,SHA-98,Intra,2
+106,0.48090677448478253,Bacteroidales,Inter,3
+107,0.5190932255152174,Bacteroidales,Intra,3
+108,0.6733749315127889,Lachnospirales,Inter,3
+109,0.3266250684872111,Lachnospirales,Intra,3
+110,0.6689358547300464,Oscillospirales,Inter,3
+111,0.33106414526995365,Oscillospirales,Intra,3
+112,0.8787254746656408,Christensenellales,Inter,3
+113,0.12127452533435923,Christensenellales,Intra,3
+114,0.8751582049242393,Enterobacterales,Inter,3
+115,0.12484179507576068,Enterobacterales,Intra,3
+116,0.943105828941566,Veillonellales,Inter,3
+117,0.056894171058434,Veillonellales,Intra,3
+118,0.961168150558164,Acidaminococcales,Inter,3
+119,0.038831849441836,Acidaminococcales,Intra,3
+120,0.990178989164593,Selenomonadales,Inter,3
+121,0.00982101083540698,Selenomonadales,Intra,3
+122,0.8973411556758993,Actinomycetales,Inter,3
+123,0.10265884432410072,Actinomycetales,Intra,3
+124,0.8143628575583987,TANB77,Inter,3
+125,0.18563714244160134,TANB77,Intra,3
+126,0.9388147477946166,RF39,Inter,3
+127,0.0611852522053834,RF39,Intra,3
+128,0.9460839831773948,Burkholderiales,Inter,3
+129,0.053916016822605196,Burkholderiales,Intra,3
+130,0.8102486237901537,Erysipelotrichales,Inter,3
+131,0.18975137620984622,Erysipelotrichales,Intra,3
+132,0.9778964484099144,Desulfovibrionales,Inter,3
+133,0.02210355159008559,Desulfovibrionales,Intra,3
+134,0.8957548114168328,Verrucomicrobiales,Inter,3
+135,0.10424518858316723,Verrucomicrobiales,Intra,3
+136,0.9661710923835268,Fusobacteriales,Inter,3
+137,0.033828907616473204,Fusobacteriales,Intra,3
+138,0.828012219748356,Coriobacteriales,Inter,3
+139,0.17198778025164396,Coriobacteriales,Intra,3
+140,0.7606458505186007,Lactobacillales,Inter,3
+141,0.23935414948139935,Lactobacillales,Intra,3
+142,0.9825659189295552,Monoglobales,Inter,3
+143,0.017434081070444706,Monoglobales,Intra,3
+144,0.9316089099453635,Peptostreptococcales,Inter,3
+145,0.06839109005463646,Peptostreptococcales,Intra,3
+146,0.8907509738200924,4C28d-15,Inter,3
+147,0.1092490261799076,4C28d-15,Intra,3
+148,0.9388565754007661,Clostridiales,Inter,3
+149,0.061143424599233935,Clostridiales,Intra,3
+150,0.9793577981651376,Gastranaerophilales,Inter,3
+151,0.020642201834862386,Gastranaerophilales,Intra,3
+152,0.9574068641830449,Methanobacteriales,Inter,3
+153,0.04259313581695512,Methanobacteriales,Intra,3
+154,0.9783994096733079,RFN20,Inter,3
+155,0.02160059032669216,RFN20,Intra,3
+156,0.9368805425143454,RF32,Inter,3
+157,0.06311945748565467,RF32,Intra,3
+158,0.9698868581375109,ML615J-28,Inter,3
+159,0.03011314186248912,ML615J-28,Intra,3
+160,0.9425746009715475,Tissierellales,Inter,3
+161,0.057425399028452465,Tissierellales,Intra,3
+162,0.9997806295930679,Bacillales,Inter,3
+163,0.00021937040693210486,Bacillales,Intra,3
+164,0.9877492193129954,Peptococcales,Inter,3
+165,0.012250780687004564,Peptococcales,Intra,3
+166,0.5463499259340282,Bacteroidaceae,Inter,4
+167,0.4536500740659718,Bacteroidaceae,Intra,4
+168,0.6753810181142068,Lachnospiraceae,Inter,4
+169,0.3246189818857932,Lachnospiraceae,Intra,4
+170,0.8101699001163936,Ruminococcaceae,Inter,4
+171,0.18983009988360647,Ruminococcaceae,Intra,4
+172,0.8436876035714983,Oscillospiraceae,Inter,4
+173,0.15631239642850167,Oscillospiraceae,Intra,4
+174,0.903941564986761,Acutalibacteraceae,Inter,4
+175,0.09605843501323896,Acutalibacteraceae,Intra,4
+176,0.9384055829845759,Rikenellaceae,Inter,4
+177,0.061594417015424126,Rikenellaceae,Intra,4
+178,0.9700948057378378,Tannerellaceae,Inter,4
+179,0.029905194262162184,Tannerellaceae,Intra,4
+180,0.8757051289297867,Enterobacteriaceae,Inter,4
+181,0.12429487107021332,Enterobacteriaceae,Intra,4
+182,0.8848944502561626,CAG-138,Inter,4
+183,0.11510554974383734,CAG-138,Intra,4
+184,0.961168150558164,Acidaminococcaceae,Inter,4
+185,0.038831849441836,Acidaminococcaceae,Intra,4
+186,0.9901786231854054,Selenomonadaceae,Inter,4
+187,0.0098213768145946,Selenomonadaceae,Intra,4
+188,0.968331402875247,CAG-74,Inter,4
+189,0.03166859712475301,CAG-74,Intra,4
+190,0.9720577884230729,Dialisteraceae,Inter,4
+191,0.027942211576927167,Dialisteraceae,Intra,4
+192,0.8998258993622618,Bifidobacteriaceae,Inter,4
+193,0.10017410063773821,Bifidobacteriaceae,Intra,4
+194,0.8142878041644317,CAG-508,Inter,4
+195,0.18571219583556833,CAG-508,Intra,4
+196,0.946577871077491,Burkholderiaceae,Inter,4
+197,0.05342212892250896,Burkholderiaceae,Intra,4
+198,0.9778964484099144,Desulfovibrionaceae,Inter,4
+199,0.02210355159008559,Desulfovibrionaceae,Intra,4
+200,0.9578244093604606,Muribaculaceae,Inter,4
+201,0.0421755906395394,Muribaculaceae,Intra,4
+202,0.9678775525060969,Marinifilaceae,Inter,4
+203,0.032122447493903104,Marinifilaceae,Intra,4
+204,0.8957548114168328,Akkermansiaceae,Inter,4
+205,0.10424518858316723,Akkermansiaceae,Intra,4
+206,0.9660999879144342,Fusobacteriaceae,Inter,4
+207,0.033900012085565805,Fusobacteriaceae,Intra,4
+208,0.9666670209712906,CAG-302,Inter,4
+209,0.033332979028709304,CAG-302,Intra,4
+210,0.9516276579129387,Butyricicoccaceae,Inter,4
+211,0.048372342087061294,Butyricicoccaceae,Intra,4
+212,0.7913772535203416,Erysipelotrichaceae,Inter,4
+213,0.2086227464796584,Erysipelotrichaceae,Intra,4
+214,0.9895385520702225,Anaerotignaceae,Inter,4
+215,0.010461447929777531,Anaerotignaceae,Intra,4
+216,0.8601523852845852,Erysipelatoclostridiaceae,Inter,4
+217,0.1398476147154148,Erysipelatoclostridiaceae,Intra,4
+218,0.8803889641319069,Coriobacteriaceae,Inter,4
+219,0.11961103586809307,Coriobacteriaceae,Intra,4
+220,0.9960539646989814,Coprobacteraceae,Inter,4
+221,0.003946035301018504,Coprobacteraceae,Intra,4
+222,0.930414055591865,Megasphaeraceae,Inter,4
+223,0.06958594440813502,Megasphaeraceae,Intra,4
+224,0.9971169223145708,Barnesiellaceae,Inter,4
+225,0.0028830776854291956,Barnesiellaceae,Intra,4
+226,0.7601215098856899,Bacteroides,Inter,5
+227,0.23987849011431006,Bacteroides,Intra,5
+228,0.9298754741060692,Bacteroides_B,Inter,5
+229,0.07012452589393081,Bacteroides_B,Intra,5
+230,0.7650671832469792,Prevotella,Inter,5
+231,0.23493281675302086,Prevotella,Intra,5
+232,0.849184129384784,Faecalibacterium,Inter,5
+233,0.150815870615216,Faecalibacterium,Intra,5
+234,0.9163060339458994,Bacteroides_A,Inter,5
+235,0.08369396605410057,Bacteroides_A,Intra,5
+236,0.9181333380870171,Agathobacter,Inter,5
+237,0.0818666619129829,Agathobacter,Intra,5
+238,0.9422573624617758,Alistipes,Inter,5
+239,0.057742637538224194,Alistipes,Intra,5
+240,0.9464710432376312,Lachnospira,Inter,5
+241,0.05352895676236882,Lachnospira,Intra,5
+242,0.9700948057378378,Parabacteroides,Inter,5
+243,0.029905194262162184,Parabacteroides,Intra,5
+244,0.9170167588978614,Gemmiger,Inter,5
+245,0.08298324110213863,Gemmiger,Intra,5
+246,0.833314408506317,Blautia_A,Inter,5
+247,0.16668559149368303,Blautia_A,Intra,5
+248,0.949265102311262,Faecalicatena,Inter,5
+249,0.05073489768873795,Faecalicatena,Intra,5
+250,0.9236666430778666,Ruminococcus_E,Inter,5
+251,0.07633335692213337,Ruminococcus_E,Intra,5
+252,0.9786909603842541,Ruminococcus_D,Inter,5
+253,0.021309039615745942,Ruminococcus_D,Intra,5
+254,0.9445924938929603,Roseburia,Inter,5
+255,0.055407506107039754,Roseburia,Intra,5
+256,0.9279369204992174,CAG-83,Inter,5
+257,0.07206307950078265,CAG-83,Intra,5
+258,0.9526358100966191,Clostridium_M,Inter,5
+259,0.04736418990338093,Clostridium_M,Intra,5
+260,0.9207533576905265,Acetatifactor,Inter,5
+261,0.07924664230947358,Acetatifactor,Intra,5
+262,0.9938542465753425,Megamonas,Inter,5
+263,0.006145753424657534,Megamonas,Intra,5
+264,0.9976097673597436,CAG-180,Inter,5
+265,0.002390232640256407,CAG-180,Intra,5
+266,0.9102570602849465,Escherichia,Inter,5
+267,0.0897429397150535,Escherichia,Intra,5
+268,0.899937987872132,Bifidobacterium,Inter,5
+269,0.10006201212786806,Bifidobacterium,Intra,5
+270,0.9730485529233585,Dialister,Inter,5
+271,0.02695144707664156,Dialister,Intra,5
+272,0.9633123798638891,CAG-110,Inter,5
+273,0.03668762013611097,CAG-110,Intra,5
+274,0.9705756151981292,Fusicatenibacter,Inter,5
+275,0.029424384801870804,Fusicatenibacter,Intra,5
+276,0.9534313057229327,ER4,Inter,5
+277,0.04656869427706737,ER4,Intra,5
+278,0.9993786185016341,UBA11524,Inter,5
+279,0.0006213814983658862,UBA11524,Intra,5
+280,0.9890524844119611,Phascolarctobacterium,Inter,5
+281,0.010947515588038872,Phascolarctobacterium,Intra,5
+282,0.9826719435233715,CAG-177,Inter,5
+283,0.017328056476628516,CAG-177,Intra,5
+284,1.0,Bacteroides_B dorei,Inter,6
+285,0.0,Bacteroides_B dorei,Intra,6
+286,1.0,Prevotella copri,Inter,6
+287,0.0,Prevotella copri,Intra,6
+288,1.0,Bacteroides uniformis,Inter,6
+289,0.0,Bacteroides uniformis,Intra,6
+290,1.0,Bacteroides stercoris,Inter,6
+291,0.0,Bacteroides stercoris,Intra,6
+292,1.0,Agathobacter faecis,Inter,6
+293,0.0,Agathobacter faecis,Intra,6
+294,1.0,Bacteroides_A coprocola,Inter,6
+295,0.0,Bacteroides_A coprocola,Intra,6
+296,1.0,Bacteroides xylanisolvens,Inter,6
+297,0.0,Bacteroides xylanisolvens,Intra,6
+298,1.0,Bacteroides thetaiotaomicron,Inter,6
+299,0.0,Bacteroides thetaiotaomicron,Intra,6
+300,1.0,Faecalibacterium prausnitzii_G,Inter,6
+301,0.0,Faecalibacterium prausnitzii_G,Intra,6
+302,1.0,Ruminococcus_D bicirculans,Inter,6
+303,0.0,Ruminococcus_D bicirculans,Intra,6
+304,1.0,Parabacteroides distasonis,Inter,6
+305,0.0,Parabacteroides distasonis,Intra,6
+306,1.0,Bacteroides eggerthii,Inter,6
+307,0.0,Bacteroides eggerthii,Intra,6
+308,1.0,Agathobacter rectalis,Inter,6
+309,0.0,Agathobacter rectalis,Intra,6
+310,1.0,Alistipes putredinis,Inter,6
+311,0.0,Alistipes putredinis,Intra,6
+312,1.0,Bacteroides caccae,Inter,6
+313,0.0,Bacteroides caccae,Intra,6
+314,1.0,Alistipes onderdonkii,Inter,6
+315,0.0,Alistipes onderdonkii,Intra,6
+316,1.0,Bacteroides_A plebeius_A,Inter,6
+317,0.0,Bacteroides_A plebeius_A,Intra,6
+318,1.0,CAG-180 sp000432435,Inter,6
+319,0.0,CAG-180 sp000432435,Intra,6
+320,1.0,Megamonas funiformis,Inter,6
+321,0.0,Megamonas funiformis,Intra,6
+322,1.0,Bacteroides_B massiliensis,Inter,6
+323,0.0,Bacteroides_B massiliensis,Intra,6
+324,1.0,Gemmiger sp003476825,Inter,6
+325,0.0,Gemmiger sp003476825,Intra,6
+326,1.0,Bacteroides ovatus,Inter,6
+327,0.0,Bacteroides ovatus,Intra,6
+328,1.0,Bacteroides_B sartorii,Inter,6
+329,0.0,Bacteroides_B sartorii,Intra,6
+330,1.0,Escherichia coli_D,Inter,6
+331,0.0,Escherichia coli_D,Intra,6
+332,1.0,Prevotella sp000434515,Inter,6
+333,0.0,Prevotella sp000434515,Intra,6
+334,1.0,Lachnospira eligens_B,Inter,6
+335,0.0,Lachnospira eligens_B,Intra,6
+336,1.0,Fusicatenibacter saccharivorans,Inter,6
+337,0.0,Fusicatenibacter saccharivorans,Intra,6
+338,1.0,Ruminococcus_E bromii_B,Inter,6
+339,0.0,Ruminococcus_E bromii_B,Intra,6
+340,1.0,UBA11524 sp000437595,Inter,6
+341,0.0,UBA11524 sp000437595,Intra,6

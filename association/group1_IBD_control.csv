@@ -1,0 +1,7 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+42,Peptidoglycan biosynthesis,map00550,9.100214900449429e-10,62,2.456430991658411,Metabolism,Glycan biosynthesis and metabolism,3.4398812323698846e-07
+115,Folate biosynthesis,map00790,5.2742040149617185e-06,42,2.2076234315737735,Metabolism,Metabolism of cofactors and vitamins,0.0019936491176555295
+206,Phosphotransferase system (PTS),map02060,1.5377980841516939e-16,63,3.5441029931313044,Environmental Information Processing,Membrane transport,5.812876758093402e-14
+242,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,7.800544869415825e-05,49,1.8646162748259563,Metabolism,Amino acid metabolism,0.02948605960639182
+269,Other glycan degradation,map00511,8.806952447964957e-05,0,0.0,Metabolism,Glycan biosynthesis and metabolism,0.03329028025330754
+352,beta-Lactam resistance,map01501,0.0001242800274688338,33,2.0984317840229134,Human Diseases,Drug resistance: antimicrobial,0.04697785038321917

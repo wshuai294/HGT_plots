@@ -1,0 +1,46 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+5,Other glycan degradation,map00511,1.4811283289769316e-05,181,0.7273929194752661,Metabolism,Glycan biosynthesis and metabolism,0.005554231233663494
+9,Biosynthesis of amino acids,map01230,2.302437901265329e-29,2131,0.7807866120708854,Other,Other,8.634142129744983e-27
+11,Bacterial chemotaxis,map02030,9.192570948951264e-06,152,0.7027466034616571,Cellular Processes,Cell motility,0.003447214105856724
+13,2-Oxocarboxylic acid metabolism,map01210,6.643450728755694e-18,261,0.603165368497349,Other,Other,2.491294023283385e-15
+15,Glycosphingolipid biosynthesis - globo and isoglobo series,map00603,5.015187530334676e-05,52,0.5861951251034345,Metabolism,Glycan biosynthesis and metabolism,0.018806953238755034
+18,Folate biosynthesis,map00790,9.348119284572113e-08,589,1.2681121580868115,Metabolism,Metabolism of cofactors and vitamins,3.5055447317145424e-05
+27,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,1.2466219713172577e-06,141,1.5764784538858974,Metabolism,Metabolism of cofactors and vitamins,0.0004674832392439716
+41,Amino sugar and nucleotide sugar metabolism,map00520,1.6709205545248515e-07,877,0.8361430521644,Metabolism,Carbohydrate metabolism,6.265952079468193e-05
+55,Starch and sucrose metabolism,map00500,1.9447637392720805e-31,527,0.6159485143826495,Metabolism,Carbohydrate metabolism,7.292864022270302e-29
+63,Ribosome,map03010,3.639203293405061e-14,792,0.7649424687833661,Genetic Information Processing,Translation,1.364701235026898e-11
+70,beta-Lactam resistance,map01501,4.794693923185477e-07,297,0.7492897991475929,Human Diseases,Drug resistance: antimicrobial,0.00017980102211945538
+72,Lipoic acid metabolism,map00785,3.488302509626996e-20,201,2.1387022985730404,Metabolism,Metabolism of cofactors and vitamins,1.3081134411101235e-17
+78,Lipopolysaccharide biosynthesis,map00540,1.3894496320747666e-06,269,1.3764913631253033,Metabolism,Glycan biosynthesis and metabolism,0.0005210436120280374
+82,Sphingolipid metabolism,map00600,3.402998603350546e-07,147,0.6658511536823241,Metabolism,Lipid metabolism,0.00012761244762564546
+94,Pertussis,map05133,3.787530610809894e-14,119,2.2715342356127843,Human Diseases,Infectious disease: bacterial,1.4203239790537102e-11
+106,ABC transporters,map02010,2.829176652450499e-06,1881,0.8941919564692745,Environmental Information Processing,Membrane transport,0.0010609412446689372
+108,Tryptophan metabolism,map00380,9.258452814104863e-10,107,1.9734723078949568,Metabolism,Amino acid metabolism,3.471919805289324e-07
+114,Microbial metabolism in diverse environments,map01120,8.666757670181309e-07,3552,1.0939350789575082,Other,Other,0.0003250034126317991
+120,Biosynthesis of secondary metabolites,map01110,8.190191844964139e-08,5492,0.9241046698385031,Other,Other,3.071321941861552e-05
+126,Carbon fixation pathways in prokaryotes,map00720,1.577739183808557e-07,672,1.243274630486156,Metabolism,Energy metabolism,5.9165219392820887e-05
+131,Peptidoglycan biosynthesis,map00550,4.517190911133941e-19,423,0.6581827771166624,Metabolism,Glycan biosynthesis and metabolism,1.693946591675228e-16
+137,Sulfur relay system,map04122,2.9551080009101336e-05,239,1.3404490367249415,Genetic Information Processing,"Folding, sorting and degradation",0.011081655003413002
+150,Amoebiasis,map05146,0.0001148171364831803,44,1.9532584419432353,Human Diseases,Infectious disease: parasitic,0.04305642618119261
+163,Glucagon signaling pathway,map04922,4.609636463817051e-06,84,0.619641292825419,Organismal Systems,Endocrine system,0.0017286136739313941
+170,Arginine biosynthesis,map00220,0.00012259325238415342,278,0.7941147428039576,Metabolism,Amino acid metabolism,0.04597246964405753
+171,Lysine degradation,map00310,1.606971984370031e-17,171,2.1459125445073184,Metabolism,Amino acid metabolism,6.026144941387616e-15
+196,Glutathione metabolism,map00480,5.118863130250471e-14,176,1.9211609383115487,Metabolism,Metabolism of other amino acids,1.9195736738439264e-11
+208,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,7.202661116150424e-05,554,0.842943054184201,Metabolism,Amino acid metabolism,0.02700997918556409
+215,C5-Branched dibasic acid metabolism,map00660,2.9737410685884235e-06,62,0.5692055100716076,Metabolism,Carbohydrate metabolism,0.0011151529007206588
+230,"Pinene, camphor and geraniol degradation",map00907,7.6820421960359e-06,17,4.00973734497839,Metabolism,Metabolism of terpenoids and polyketides,0.0028807658235134623
+232,Purine metabolism,map00230,1.2077790251466747e-06,1013,0.8561780098595827,Metabolism,Nucleotide metabolism,0.000452917134430003
+242,beta-Alanine metabolism,map00410,3.0602093104067495e-05,147,1.4587957380691365,Metabolism,Metabolism of other amino acids,0.011475784914025311
+258,"Valine, leucine and isoleucine biosynthesis",map00290,4.345759693022716e-21,81,0.4000445918007246,Metabolism,Amino acid metabolism,1.6296598848835185e-18
+265,Citrate cycle (TCA cycle),map00020,7.511972835691286e-14,493,1.4485368056917174,Metabolism,Carbohydrate metabolism,2.816989813384232e-11
+267,Photosynthesis,map00195,5.973451952569227e-08,89,0.5802655968466546,Metabolism,Energy metabolism,2.24004448221346e-05
+270,Galactose metabolism,map00052,1.7109274358790475e-15,436,0.6900145236957083,Metabolism,Carbohydrate metabolism,6.415977884546428e-13
+276,Butanoate metabolism,map00650,1.0076441024867998e-19,548,1.540257656711512,Metabolism,Carbohydrate metabolism,3.7786653843254993e-17
+299,"Valine, leucine and isoleucine degradation",map00280,5.855182463521977e-13,265,1.6408152594332865,Metabolism,Amino acid metabolism,2.1956934238207415e-10
+306,Histidine metabolism,map00340,3.5915372898585565e-10,208,0.657626382735176,Metabolism,Amino acid metabolism,1.3468264836969588e-07
+319,Bacterial invasion of epithelial cells,map05100,1.6158339386790102e-10,83,2.2857181389076198,Human Diseases,Infectious disease: bacterial,6.059377270046288e-08
+321,Carbon metabolism,map01200,4.04048759018102e-15,2052,1.2072579245178432,Other,Other,1.5151828463178825e-12
+327,Porphyrin metabolism,map00860,3.0177339059885e-11,596,1.344507099675261,Metabolism,Metabolism of cofactors and vitamins,1.1316502147456875e-08
+335,Chemical carcinogenesis - DNA adducts,map05204,1.0345421285841964e-06,18,4.50303914467308,Human Diseases,Cancer: overview,0.00038795329821907364
+345,Biosynthesis of cofactors,map01240,9.317313034623977e-16,2957,1.1750101165230826,Other,Other,3.4939923879839913e-13
+347,Degradation of flavonoids,map00946,2.532377794948266e-10,38,0.4036322642101255,Metabolism,Biosynthesis of other secondary metabolites,9.496416731055998e-08

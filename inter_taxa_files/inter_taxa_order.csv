@@ -1,0 +1,12 @@
+	Bacteroidales	Lachnospirales	Oscillospirales	Enterobacterales	Coriobacteriales	Erysipelotrichales	Actinomycetales	TANB77	Lactobacillales	Veillonellales	Others
+Bacteroidales	0	0	0	0	0	0	0	0	0	0	0
+Lachnospirales	31992	0	0	0	0	0	0	0	0	0	0
+Oscillospirales	20675	46470	0	0	0	0	0	0	0	0	0
+Enterobacterales	15013	7114	7156	0	0	0	0	0	0	0	0
+Coriobacteriales	29873	4730	6198	1415	0	0	0	0	0	0	0
+Erysipelotrichales	2099	7047	2109	63	180	0	0	0	0	0	0
+Actinomycetales	293	571	322	81	3735	31	0	0	0	0	0
+TANB77	2773	3449	1095	39	82	1168	2	0	0	0	0
+Lactobacillales	13510	5797	1849	358	730	292	241	54	0	0	0
+Veillonellales	594	1484	487	1398	328	58	32	20	234	0	0
+Others	23670	20977	20116	3413	2944	2757	690	3581	1006	1028	0

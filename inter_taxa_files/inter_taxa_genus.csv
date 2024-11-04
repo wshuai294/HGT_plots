@@ -1,0 +1,12 @@
+	Prevotella	Bacteroides	Faecalibacterium	Escherichia	Bacteroides_B	Blautia_A	Agathobacter	Bacteroides_A	Ruminococcus_E	Gemmiger	Others
+Prevotella	0	0	0	0	0	0	0	0	0	0	0
+Bacteroides	7875	0	0	0	0	0	0	0	0	0	0
+Faecalibacterium	256	564	0	0	0	0	0	0	0	0	0
+Escherichia	653	25	16	0	0	0	0	0	0	0	0
+Bacteroides_B	3628	13841	93	17	0	0	0	0	0	0	0
+Blautia_A	141	3586	1432	6	670	0	0	0	0	0	0
+Agathobacter	290	532	391	4	229	1939	0	0	0	0	0
+Bacteroides_A	5134	13461	63	0	9946	204	102	0	0	0	0
+Ruminococcus_E	74	292	97	1	423	188	124	65	0	0	0
+Gemmiger	106	139	4279	7	37	551	170	21	31	0	0
+Others	35729	68719	24204	4913	37170	38222	39836	25879	6532	11257	0

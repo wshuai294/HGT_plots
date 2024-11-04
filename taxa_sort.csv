@@ -1,0 +1,37 @@
+,Taxa,Frequency,Level
+0,p__Firmicutes_A,0.49697311921194054,phylum
+1,p__Bacteroidota,0.37196726356246723,phylum
+2,p__Firmicutes,0.04563004348204721,phylum
+3,p__Proteobacteria,0.04437891957409582,phylum
+4,p__Actinobacteriota,0.03259787840336452,phylum
+5,p__other,0.00845277576608472,phylum
+6,c__Clostridia,0.4968975006439238,class
+7,c__Bacteroidia,0.37196726356246723,class
+8,c__Gammaproteobacteria,0.0461638025353694,class
+9,c__Bacilli,0.04563004348204721,class
+10,c__Actinobacteria,0.020558632623286013,class
+11,c__other,0.018782757152906226,class
+12,o__Bacteroidales,0.3718685909032963,order
+13,o__Lachnospirales,0.26067894882665055,order
+14,o__Oscillospirales,0.19898185841988472,order
+15,o__Enterobacterales,0.05388854050596442,order
+16,o__Coriobacteriales,0.020260397057339223,order
+17,o__other,0.09432166428686473,order
+18,f__Bacteroidaceae,0.3038893008605139,family
+19,f__Lachnospiraceae,0.2556830012389872,family
+20,f__Ruminococcaceae,0.11061429398354622,family
+21,f__Enterobacteriaceae,0.05862684955759097,family
+22,f__Oscillospiraceae,0.0517215163845566,family
+23,f__other,0.2194650379748051,family
+24,g__Prevotella,0.11698195525969644,genus
+25,g__Bacteroides,0.10748424755549164,genus
+26,g__Faecalibacterium,0.06746396330265444,genus
+27,g__Escherichia,0.0497960885269103,genus
+28,g__Bacteroides_B,0.04667473689304443,genus
+29,g__other,0.6115990084622027,genus
+30,s__Prevotella copri,0.06550137109380584,species
+31,s__Bacteroides_B dorei,0.032649818785438524,species
+32,s__Escherichia coli_D,0.024884869674746863,species
+33,s__Prevotella copri_A,0.020799679344309187,species
+34,s__Agathobacter rectalis,0.020560352269846347,species
+35,s__other,0.8356039088318532,species

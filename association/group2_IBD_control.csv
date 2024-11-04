@@ -1,0 +1,41 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+14,Pyruvate metabolism,map00620,2.1115131255588957e-07,3105,0.8976032821136719,Metabolism,Carbohydrate metabolism,7.981519614612626e-05
+17,Flagellar assembly,map02040,4.758469056415886e-06,809,0.8325592514566732,Cellular Processes,Cell motility,0.001798701303325205
+35,Ribosome,map03010,6.169663913809491e-16,4340,0.867736541709456,Genetic Information Processing,Translation,2.332132959419988e-13
+39,alpha-Linolenic acid metabolism,map00592,3.543907084258001e-05,9,0.2819488687422231,Metabolism,Lipid metabolism,0.013395968778495243
+42,Peptidoglycan biosynthesis,map00550,6.118315693743985e-10,2738,0.8725678873110464,Metabolism,Glycan biosynthesis and metabolism,2.3127233322352262e-07
+47,Pentose and glucuronate interconversions,map00040,2.434778749327438e-07,2117,1.1464262150618223,Metabolism,Carbohydrate metabolism,9.203463672457716e-05
+52,Starch and sucrose metabolism,map00500,6.265313874592461e-31,4880,1.2280207191399997,Metabolism,Carbohydrate metabolism,2.36828864459595e-28
+55,Tryptophan metabolism,map00380,5.28026009436181e-07,196,0.6765911411314359,Metabolism,Amino acid metabolism,0.00019959383156687642
+61,Arginine biosynthesis,map00220,1.8330838311250845e-07,1904,1.1565898372886274,Metabolism,Amino acid metabolism,6.929056881652819e-05
+69,"Alanine, aspartate and glutamate metabolism",map00250,4.106242252039764e-06,3043,1.1063728747112878,Metabolism,Amino acid metabolism,0.001552159571271031
+76,D-Amino acid metabolism,map00470,3.226622669232239e-05,934,0.8558137961521239,Metabolism,Metabolism of other amino acids,0.012196633689697863
+79,Biosynthesis of amino acids,map01230,2.5807286084492643e-17,13737,1.0933889070847016,Other,Other,9.755154139938219e-15
+96,Streptomycin biosynthesis,map00521,9.173968449137076e-07,1345,1.1775585268615765,Metabolism,Biosynthesis of other secondary metabolites,0.00034677600737738145
+102,DNA replication,map03030,3.3421420730327236e-06,2044,0.8878052993972777,Genetic Information Processing,Replication and repair,0.0012633297036063694
+114,Folate biosynthesis,map00790,7.798638423626154e-05,2487,1.100286493505677,Metabolism,Metabolism of cofactors and vitamins,0.02947885324130686
+121,Chemical carcinogenesis - reactive oxygen species,map05208,2.8833231046282092e-05,66,0.579707051083851,Human Diseases,Cancer: overview,0.01089896133549463
+122,Ether lipid metabolism,map00565,3.9470651098925216e-05,22,0.41753472503751177,Metabolism,Lipid metabolism,0.014919906115393731
+126,Biosynthesis of nucleotide sugars,map01250,3.052994958040704e-07,4780,1.0939613164504671,Other,Other,0.00011540320941393862
+152,Amino sugar and nucleotide sugar metabolism,map00520,4.957900858142209e-16,5627,1.1416850243200214,Metabolism,Carbohydrate metabolism,1.8740865243777552e-13
+156,Photosynthesis - antenna proteins,map00196,2.3963899276261512e-129,727,4.174756919317583,Metabolism,Energy metabolism,9.058353926426852e-127
+164,Fructose and mannose metabolism,map00051,2.837690576337452e-13,4150,1.1487114070601534,Metabolism,Carbohydrate metabolism,1.0726470378555569e-10
+165,Biosynthesis of various plant secondary metabolites,map00999,0.00013212032395308162,817,1.1770648070552445,Metabolism,Biosynthesis of other secondary metabolites,0.04994148245426485
+166,Degradation of flavonoids,map00946,8.789223758663542e-06,557,1.2634976161006755,Metabolism,Biosynthesis of other secondary metabolites,0.003322326580774819
+177,Polyketide sugar unit biosynthesis,map00523,5.1702950056305505e-05,837,1.1868699492634973,Metabolism,Metabolism of terpenoids and polyketides,0.01954371512128348
+195,Quorum sensing,map02024,2.4020484020930392e-05,4956,0.9318876551473035,Cellular Processes,Cellular community - prokaryotes,0.009079742959911688
+202,Biosynthesis of secondary metabolites,map01110,1.5585541425649418e-16,29614,1.0631878708599938,Other,Other,5.89133465889548e-14
+206,Phosphotransferase system (PTS),map02060,6.044361929648761e-20,2545,1.252125633940329,Environmental Information Processing,Membrane transport,2.2847688094072315e-17
+220,Histidine metabolism,map00340,1.7535404793719263e-05,1613,1.1386852875071223,Metabolism,Amino acid metabolism,0.006628383012025881
+235,Galactose metabolism,map00052,3.774361876814046e-17,3520,1.1906248789768756,Metabolism,Carbohydrate metabolism,1.4267087894357094e-14
+238,RNA polymerase,map03020,2.9460580591152253e-07,228,0.6899051916632202,Genetic Information Processing,Transcription,0.00011136099463455552
+255,Nucleotide excision repair,map03420,3.504105551923844e-06,973,0.8438486562625765,Genetic Information Processing,Replication and repair,0.001324551898627213
+262,Photosynthesis,map00195,3.969958328101634e-05,873,1.1849904078198614,Metabolism,Energy metabolism,0.015006442480224176
+287,FoxO signaling pathway,map04068,0.00012600653205663135,39,0.5253984133486185,Environmental Information Processing,Signal transduction,0.04763046911740665
+311,Fatty acid biosynthesis,map00061,1.2491163837884536e-05,915,0.847946327255207,Metabolism,Lipid metabolism,0.0047216599307203545
+318,Mismatch repair,map03430,4.195940143115743e-06,2373,0.8961977856185056,Genetic Information Processing,Replication and repair,0.0015860653740977508
+331,Metabolic pathways,map01100,1.2080294894397288e-16,70014,1.0458719601223212,Other,Other,4.5663514700821746e-14
+338,O-Antigen nucleotide sugar biosynthesis,map00541,2.0512756785613917e-06,2648,1.1182094633793946,Metabolism,Glycan biosynthesis and metabolism,0.000775382206496206
+344,Sphingolipid metabolism,map00600,5.978673668124974e-05,1228,1.1491216512513756,Metabolism,Lipid metabolism,0.022599386465512402
+346,Viral life cycle - HIV-1,map03250,5.201480400723666e-05,10,0.3023480571617325,Genetic Information Processing,Information processing in viruses,0.019661595914735458
+348,Lipoic acid metabolism,map00785,6.480093876078468e-17,303,0.6013886238137622,Metabolism,Metabolism of cofactors and vitamins,2.449475485157661e-14

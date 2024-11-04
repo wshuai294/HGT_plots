@@ -1,0 +1,12 @@
+	Firmicutes_A	Bacteroidota	Firmicutes	Proteobacteria	Actinobacteriota	Firmicutes_C	Fusobacteriota	Verrucomicrobiota	Patescibacteria	Campylobacterota	Others
+Firmicutes_A	0	0	0	0	0	0	0	0	0	0	0
+Bacteroidota	79853	0	0	0	0	0	0	0	0	0	0
+Firmicutes	23334	26931	0	0	0	0	0	0	0	0	0
+Proteobacteria	15549	16054	1118	0	0	0	0	0	0	0	0
+Actinobacteriota	14322	30406	2324	1845	0	0	0	0	0	0	0
+Firmicutes_C	6433	1578	848	1517	513	0	0	0	0	0	0
+Fusobacteriota	1524	1167	890	205	396	552	0	0	0	0	0
+Verrucomicrobiota	2368	254	92	667	435	8	19	0	0	0	0
+Patescibacteria	48	200	136	39	168	2	107	2	0	0	0
+Campylobacterota	111	71	101	224	142	28	52	0	2	0	0
+Others	7983	2754	938	337	324	89	10	17	0	0	0

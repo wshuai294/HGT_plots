@@ -1,0 +1,70 @@
+,category,category_detail,p_value,fold,gene_num,profile,locus_type,p.adj
+0,A,A: RNA processing and modification,0.3991958548819455,0.7574468200908441,14,Information storage and Processing,BKP,1.0
+1,B,B: Chromatin structure and dynamics,0.0007233592891378179,0.3629208549721133,9,Information storage and Processing,BKP,0.04991179095050943
+2,C,C: Energy production and conversion,1.5895432361196365e-259,0.6434967674564517,5763,Metabolism,BKP,1.0967848329225492e-257
+3,D,"D: Cell cycle control, cell division, chromosome partitioning",0.7596373232403388,1.0060900345963306,2584,Cellular processes and signaling,BKP,1.0
+4,E,E: Amino acid transport and metabolism,5.779415099790298e-214,0.696588175652137,7339,Metabolism,BKP,3.987796418855305e-212
+5,F,F: Nucleotide transport and metabolism,1.2062331364959874e-79,0.7389743481395842,3803,Metabolism,BKP,8.323008641822313e-78
+6,G,G: Carbohydrate transport and metabolism,4.003097015379646e-15,0.9204663927713962,9868,Metabolism,BKP,2.7621369406119556e-13
+7,H,H: Coenzyme transport and metabolism,4.1031828012827703e-106,0.7308806525427184,4766,Metabolism,BKP,2.831196132885111e-104
+8,I,I: Lipid transport and metabolism,7.26259377480904e-90,0.6736075735181084,2414,Metabolism,BKP,5.0111897046182375e-88
+9,J,"J: Translation, ribosomal structure and biogenesis",0.0,0.538199953686819,5889,Information storage and Processing,BKP,0.0
+10,K,K: Transcription,0.5378569754057346,0.994142087368849,12925,Information storage and Processing,BKP,1.0
+11,L,"L: Replication, recombination and repair",0.0,2.3433956864887344,21588,Information storage and Processing,BKP,0.0
+12,M,M: Cell wall/membrane/envelope biogenesis,0.0007833524725089578,1.036033686433105,10239,Cellular processes and signaling,BKP,0.05405132060311809
+13,N,N: Cell motility,8.365261389390075e-07,0.8764276406535954,1425,Cellular processes and signaling,BKP,5.772030358679152e-05
+14,O,"O: Posttranslational modification, protein turnover, chaperones",9.185833744080142e-36,0.8045883945640333,3297,Cellular processes and signaling,BKP,6.338225283415298e-34
+15,P,P: Inorganic ion transport and metabolism,8.401178225365603e-43,0.8459200313551903,7023,Metabolism,BKP,5.796812975502265e-41
+16,Q,"Q: Secondary metabolites biosynthesis, transport and catabolism",3.884648009804367e-24,0.7608689912209349,1329,Metabolism,BKP,2.6804071267650134e-22
+17,S,S: Function unknown,2.6715114832337725e-34,1.080469469968122,34307,Function unknown,BKP,1.843342923431303e-32
+18,T,T: Signal transduction mechanisms,4.389436482060139e-18,1.122638906796743,6383,Cellular processes and signaling,BKP,3.028711172621496e-16
+19,U,"U: Intracellular trafficking, secretion, and vesicular transport",3.687461759892598e-170,1.5442311928388166,5117,Cellular processes and signaling,BKP,2.5443486143258926e-168
+20,V,V: Defense mechanisms,7.958952951597409e-167,1.507281308973426,5595,Cellular processes and signaling,BKP,5.491677536602213e-165
+21,W,W: Extracellular structures,9.728268197231967e-41,4.4140518757235245,137,Cellular processes and signaling,BKP,6.712505056090057e-39
+22,Z,Z: Cytoskeleton,0.8228898696010435,0.9482724610887358,45,Cellular processes and signaling,BKP,1.0
+23,A,A: RNA processing and modification,1.0,0.8544598581382211,2,Information storage and Processing,transfer,1.0
+24,B,B: Chromatin structure and dynamics,0.12533873238903656,2.197530111297454,4,Information storage and Processing,transfer,1.0
+25,C,C: Energy production and conversion,4.699673615021889e-96,0.3743745725408013,342,Metabolism,transfer,3.2427747943651036e-94
+26,D,"D: Cell cycle control, cell division, chromosome partitioning",0.020777411465767028,1.153685954188159,288,Cellular processes and signaling,transfer,1.0
+27,E,E: Amino acid transport and metabolism,1.5678300238884625e-118,0.36208474021951625,394,Metabolism,transfer,1.081802716483039e-116
+28,F,F: Nucleotide transport and metabolism,1.0074691617797262e-63,0.3392418073098143,175,Metabolism,transfer,6.951537216280111e-62
+29,G,G: Carbohydrate transport and metabolism,4.527580424184136e-115,0.39227062392245426,468,Metabolism,transfer,3.124030492687054e-113
+30,H,H: Coenzyme transport and metabolism,4.3417585017299254e-43,0.5037023813216801,343,Metabolism,transfer,2.9958133661936485e-41
+31,I,I: Lipid transport and metabolism,8.321785376272517e-47,0.32717409033054795,117,Metabolism,transfer,5.742031909628036e-45
+32,J,"J: Translation, ribosomal structure and biogenesis",2.4701828306521593e-111,0.3501348375907537,340,Information storage and Processing,transfer,1.70442615314999e-109
+33,K,K: Transcription,0.004439215234513199,1.0836636543754041,1480,Information storage and Processing,transfer,0.3063058511814107
+34,L,"L: Replication, recombination and repair",0.0,4.626378365059072,4151,Information storage and Processing,transfer,0.0
+35,M,M: Cell wall/membrane/envelope biogenesis,1.4623235147234293e-37,0.6181909633061665,669,Cellular processes and signaling,transfer,1.0090032251591663e-35
+36,N,N: Cell motility,9.68114387344612e-09,0.5661719357641152,90,Cellular processes and signaling,transfer,6.679989272677823e-07
+37,O,"O: Posttranslational modification, protein turnover, chaperones",7.600604561356618e-20,0.5648177642783196,224,Cellular processes and signaling,transfer,5.2444171473360664e-18
+38,P,P: Inorganic ion transport and metabolism,6.706329974195086e-91,0.3790726600405106,333,Metabolism,transfer,4.627367682194609e-89
+39,Q,"Q: Secondary metabolites biosynthesis, transport and catabolism",1.8864838880346828e-17,0.4162749054224464,73,Metabolism,transfer,1.3016738827439312e-15
+40,S,S: Function unknown,2.4725822233772606e-127,1.5440272919880114,4982,Function unknown,transfer,1.7060817341303099e-125
+41,T,T: Signal transduction mechanisms,4.032558604589032e-15,0.6893040432567082,429,Cellular processes and signaling,transfer,2.7824654371664325e-13
+42,U,"U: Intracellular trafficking, secretion, and vesicular transport",1.0182629797054298e-15,1.462435776928632,547,Cellular processes and signaling,transfer,7.026014559967466e-14
+43,V,V: Defense mechanisms,5.6725716682769225e-05,1.2177915366484726,480,Cellular processes and signaling,transfer,0.0039140744511110765
+44,W,W: Extracellular structures,1.0,0.6865948689437484,2,Cellular processes and signaling,transfer,1.0
+45,Z,Z: Cytoskeleton,0.0341694902953382,0.0,0,Cellular processes and signaling,transfer,1.0
+46,A,A: RNA processing and modification,1.0,0.0,0,Information storage and Processing,insert,1.0
+47,B,B: Chromatin structure and dynamics,0.3318773293474255,2.5085313910895306,1,Information storage and Processing,insert,1.0
+48,C,C: Energy production and conversion,1.3941563859690113e-10,0.5597924141211394,107,Metabolism,insert,9.619679063186178e-09
+49,D,"D: Cell cycle control, cell division, chromosome partitioning",0.0007530972181411959,0.5630710033106766,31,Cellular processes and signaling,insert,0.05196370805174251
+50,E,E: Amino acid transport and metabolism,2.343315872949824e-18,0.4599995827994333,103,Metabolism,insert,1.6168879523353785e-16
+51,F,F: Nucleotide transport and metabolism,1.19596010053022e-10,0.4381976470350879,48,Metabolism,insert,8.25212469365852e-09
+52,G,G: Carbohydrate transport and metabolism,0.024248264180819535,0.8480570299298605,199,Metabolism,insert,1.0
+53,H,H: Coenzyme transport and metabolism,2.9382876326464845e-11,0.48701272123089184,70,Metabolism,insert,2.0274184665260743e-09
+54,I,I: Lipid transport and metabolism,3.737887713578288e-09,0.38707296156352855,29,Metabolism,insert,2.5791425223690186e-07
+55,J,"J: Translation, ribosomal structure and biogenesis",1.1960068928727122e-36,0.26122969630413306,57,Information storage and Processing,insert,8.252447560821714e-35
+56,K,K: Transcription,0.044769498773714,1.12768336429187,322,Information storage and Processing,insert,1.0
+57,L,"L: Replication, recombination and repair",1.1095007058135144e-78,2.6404650815834922,564,Information storage and Processing,insert,7.655554870113249e-77
+58,M,M: Cell wall/membrane/envelope biogenesis,0.16467873621372653,1.0965738960475784,243,Cellular processes and signaling,insert,1.0
+59,N,N: Cell motility,0.09109254216994549,1.307322661873632,42,Cellular processes and signaling,insert,1.0
+60,O,"O: Posttranslational modification, protein turnover, chaperones",0.0003079082293013974,0.622626177932322,53,Cellular processes and signaling,insert,0.02124566782179642
+61,P,P: Inorganic ion transport and metabolism,0.0815662105986916,1.1368727075327745,200,Metabolism,insert,1.0
+62,Q,"Q: Secondary metabolites biosynthesis, transport and catabolism",0.019940901823931028,0.6050215562423847,21,Metabolism,insert,1.0
+63,S,S: Function unknown,0.033357929526758645,0.9139683796746529,711,Function unknown,insert,1.0
+64,T,T: Signal transduction mechanisms,1.9956884121335922e-08,1.5497749868064248,198,Cellular processes and signaling,insert,1.3770250043721786e-06
+65,U,"U: Intracellular trafficking, secretion, and vesicular transport",1.71549925932925e-27,2.5297999023705224,189,Cellular processes and signaling,insert,1.1836944889371825e-25
+66,V,V: Defense mechanisms,7.473149128825287e-16,2.0378033896927867,167,Cellular processes and signaling,insert,5.156472898889448e-14
+67,W,W: Extracellular structures,1.0,0.0,0,Cellular processes and signaling,insert,1.0
+68,Z,Z: Cytoskeleton,1.0,0.0,0,Cellular processes and signaling,insert,1.0

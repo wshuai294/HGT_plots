@@ -1,0 +1,8 @@
+,group,control,CRC,adenoma,IGT,T2D,acute_diarrhoea,IBD
+0,control,1.0e+00,NA,NA,NA,NA,NA,NA
+1,CRC,1.2e-01,1.0e+00,NA,NA,NA,NA,NA
+2,adenoma,4.5e-01,9.2e-01,1.0e+00,NA,NA,NA,NA
+3,IGT,1.6e-05,4.4e-04,1.1e-02,1.0e+00,NA,NA,NA
+4,T2D,2.2e-02,1.8e-01,4.2e-01,3.5e-02,1.0e+00,NA,NA
+5,acute_diarrhoea,4.1e-02,1.6e-01,3.2e-01,1.5e-01,7.2e-01,1.0e+00,NA
+6,IBD,8.1e-01,2.4e-01,4.2e-01,1.0e-04,4.5e-02,5.1e-02,1.0e+00

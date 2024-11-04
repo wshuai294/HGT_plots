@@ -1,0 +1,12 @@
+	Clostridia	Bacteroidia	Gammaproteobacteria	Bacilli	Actinobacteria	Coriobacteriia	Negativicutes	Verrucomicrobiae	Fusobacteriia	Saccharimonadia	Others
+Clostridia	0	0	0	0	0	0	0	0	0	0	0
+Bacteroidia	79836	0	0	0	0	0	0	0	0	0	0
+Gammaproteobacteria	15312	15997	0	0	0	0	0	0	0	0	0
+Bacilli	23306	26931	1067	0	0	0	0	0	0	0	0
+Actinobacteria	2696	530	149	434	0	0	0	0	0	0	0
+Coriobacteriia	11623	29876	1648	1890	3778	0	0	0	0	0	0
+Negativicutes	6433	1578	1497	848	54	459	0	0	0	0	0
+Verrucomicrobiae	1539	223	638	34	318	113	8	0	0	0	0
+Fusobacteriia	1518	1167	189	890	73	323	552	5	0	0	0
+Saccharimonadia	47	200	35	136	19	149	2	0	107	0	0
+Others	9216	2930	1500	1176	112	409	137	11	98	9	0

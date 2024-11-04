@@ -1,0 +1,8 @@
+,group,control,CRC,adenoma,IGT,T2D,diarrhoea,IBD
+0,control,1.0e+00,NA,NA,NA,NA,NA,NA
+1,CRC,1.7e-01,1.0e+00,NA,NA,NA,NA,NA
+2,adenoma,2.0e-01,5.8e-01,1.0e+00,NA,NA,NA,NA
+3,IGT,2.1e-06,9.9e-05,1.5e-02,1.0e+00,NA,NA,NA
+4,T2D,3.0e-03,6.6e-02,4.7e-01,1.2e-01,1.0e+00,NA,NA
+5,diarrhoea,2.0e-01,8.6e-02,7.6e-02,9.9e-05,1.5e-02,1.0e+00,NA
+6,IBD,9.7e-01,6.1e-01,3.2e-01,5.9e-05,3.1e-02,2.0e-01,1.0e+00

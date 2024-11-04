@@ -1,0 +1,12 @@
+	Bacteroidaceae	Lachnospiraceae	Ruminococcaceae	Enterobacteriaceae	Oscillospiraceae	Acutalibacteraceae	Rikenellaceae	Bifidobacteriaceae	Porphyromonadaceae	Coriobacteriaceae	Others
+Bacteroidaceae	0	0	0	0	0	0	0	0	0	0	0
+Lachnospiraceae	24438	0	0	0	0	0	0	0	0	0	0
+Ruminococcaceae	11345	19024	0	0	0	0	0	0	0	0	0
+Enterobacteriaceae	12900	6914	6434	0	0	0	0	0	0	0	0
+Oscillospiraceae	976	9192	8947	374	0	0	0	0	0	0	0
+Acutalibacteraceae	2889	9535	4066	171	4574	0	0	0	0	0	0
+Rikenellaceae	9505	409	358	1298	261	102	0	0	0	0	0
+Bifidobacteriaceae	51	547	64	58	164	58	113	0	0	0	0
+Porphyromonadaceae	372	53	16	85	7	11	87	0	0	0	0
+Coriobacteriaceae	21496	3423	4106	1356	882	468	1646	3359	131	0	0
+Others	92858	47865	16482	5891	11381	8683	7288	936	1330	5315	0

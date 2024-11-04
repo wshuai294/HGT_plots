@@ -1,0 +1,7 @@
+,group,CRC,IGT,T2D,diarrhoea,IBD,adenoma
+0,CRC,NA,0.98,0.8,0.97,0.93,0.73
+1,IGT,NA,NA,0.82,1.0,0.97,0.87
+2,T2D,NA,NA,NA,1.0,0.81,0
+3,diarrhoea,NA,NA,NA,NA,0.96,0.99
+4,IBD,NA,NA,NA,NA,NA,0.8
+5,adenoma,NA,NA,NA,NA,NA,NA

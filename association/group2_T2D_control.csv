@@ -1,0 +1,6 @@
+,pathway_name,pathway_id,p_value,gene_num,fold,first_class,second_class,p.adj
+56,Inositol phosphate metabolism,map00562,4.1830922642246323e-07,26,3.249926305354563,Metabolism,Carbohydrate metabolism,0.0001568659599084237
+193,Quorum sensing,map02024,8.322670550879889e-05,47,0.5837289443421367,Cellular Processes,Cellular community - prokaryotes,0.031210014565799582
+291,Bacterial chemotaxis,map02030,3.1056456225701615e-05,36,2.195624699053838,Cellular Processes,Cell motility,0.011646171084638106
+324,Porphyrin metabolism,map00860,1.1215701115463264e-09,74,2.234340651719654,Metabolism,Metabolism of cofactors and vitamins,4.205887918298724e-07
+349,beta-Lactam resistance,map01501,1.0413774193916554e-14,79,2.7781788675557997,Human Diseases,Drug resistance: antimicrobial,3.905165322718708e-12
